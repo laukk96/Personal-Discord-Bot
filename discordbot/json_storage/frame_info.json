@@ -1,0 +1,389 @@
+{
+    "frames": [
+        {
+            "frame": "brass",
+            "bits": [
+                "copper",
+                "zinc"
+            ]
+        },
+        {
+            "frame": "fortress",
+            "bits": [
+                "stone",
+                "wood"
+            ]
+        },
+        {
+            "frame": "beachside",
+            "bits": [
+                "quartz",
+                "flower"
+            ]
+        },
+        {
+            "frame": "volcanic",
+            "bits": [
+                "copper",
+                "magma"
+            ]
+        },
+        {
+            "frame": "cherry blossom",
+            "bits": [
+                "flower",
+                "wood"
+            ]
+        },
+        {
+            "frame": "spirit flame",
+            "bits": [
+                "wood",
+                "bone"
+            ]
+        },
+        {
+            "frame": "night crow",
+            "bits": [
+                "bone",
+                "zinc"
+            ]
+        },
+        {
+            "frame": "crystal mines",
+            "bits": [
+                "quartz",
+                "stone"
+            ]
+        },
+        {
+            "frame": "submarine",
+            "bits": [
+                "iron",
+                "uranium"
+            ]
+        },
+        {
+            "frame": "pirate voyage",
+            "bits": [
+                "iron",
+                "wood"
+            ]
+        },
+        {
+            "frame": "kominka",
+            "bits": [
+                "essence",
+                "wood"
+            ]
+        },
+        {
+            "frame": "magus",
+            "bits": [
+                "essence",
+                "zinc"
+            ]
+        },
+        {
+            "frame": "magitek",
+            "bits": [
+                "uranium",
+                "magma"
+            ]
+        },
+        {
+            "frame": "snowlands",
+            "bits": [
+                "ice",
+                "wood"
+            ]
+        },
+        {
+            "frame": "ice cream sundae",
+            "bits": [
+                "sugar",
+                "ice"
+            ]
+        },
+        {
+            "frame": "dragon hunt",
+            "bits": [
+                "wool",
+                "bone"
+            ]
+        },
+        {
+            "frame": "patchwork",
+            "bits": [
+                "wool",
+                "essence"
+            ]
+        },
+        {
+            "frame": "venice carnival",
+            "bits": [
+                "zinc",
+                "flower"
+            ]
+        },
+        {
+            "frame": "robotic",
+            "bits": [
+                "uranium",
+                "essence"
+            ]
+        },
+        {
+            "frame": "frills",
+            "bits": [
+                "quartz",
+                "wool"
+            ]
+        },
+        {
+            "frame": "fuselage",
+            "bits": [
+                "zinc",
+                "iron"
+            ]
+        },
+        {
+            "frame": "rozen",
+            "bits": [
+                "flower",
+                "stone"
+            ]
+        },
+        {
+            "frame": "smithy forge",
+            "bits": [
+                "magma",
+                "stone"
+            ]
+        },
+        {
+            "frame": "watermelon juice",
+            "bits": [
+                "sugar",
+                "leaf"
+            ]
+        },
+        {
+            "frame": "faerie forest",
+            "bits": [
+                "leaf",
+                "flower"
+            ]
+        },
+        {
+            "frame": "autumn view",
+            "bits": [
+                "leaf",
+                "stone"
+            ]
+        },
+        {
+            "frame": "edo furin",
+            "bits": [
+                "copper",
+                "quartz"
+            ]
+        },
+        {
+            "frame": "barbecue",
+            "bits": [
+                "salt",
+                "zinc"
+            ]
+        },
+        {
+            "frame": "whirlpool",
+            "bits": [
+                "ice",
+                "salt"
+            ]
+        },
+        {
+            "frame": "bubble bath",
+            "bits": [
+                "ice",
+                "wool"
+            ]
+        },
+        {
+            "frame": "spaceship",
+            "bits": [
+                "uranium",
+                "zinc"
+            ]
+        },
+        {
+            "frame": "wild west",
+            "bits": [
+                "quartz",
+                "wool"
+            ]
+        },
+        {
+            "frame": "archery",
+            "bits": [
+                "copper",
+                "wood"
+            ]
+        },
+        {
+            "frame": "tree frog",
+            "bits": [
+                "bone",
+                "leaf"
+            ]
+        },
+        {
+            "frame": "scimitar fight",
+            "bits": [
+                "bone",
+                "iron"
+            ]
+        },
+        {
+            "frame": "bamboo stalks",
+            "bits": [
+                "leaf",
+                "wood"
+            ]
+        },
+        {
+            "frame": "chocolate orange",
+            "bits": [
+                "essence",
+                "sugar"
+            ]
+        },
+        {
+            "frame": "tribal chief",
+            "bits": [
+                "copper",
+                "stone"
+            ]
+        },
+        {
+            "frame": "abandoned church",
+            "bits": [
+                "leaf",
+                "quartz"
+            ]
+        },
+        {
+            "frame": "long hair",
+            "bits": [
+                "essence",
+                "salt"
+            ]
+        },
+        {
+            "frame": "water element",
+            "bits": [
+                "ice",
+                "quartz"
+            ]
+        },
+        {
+            "frame": "carved stone",
+            "bits": [
+                "clay",
+                "stone"
+            ]
+        },
+        {
+            "frame": "beauty",
+            "bits": [
+                "clay",
+                "flower"
+            ]
+        },
+        {
+            "frame": "carnations",
+            "bits": [
+                "flower",
+                "wool"
+            ]
+        },
+        {
+            "frame": "baroque",
+            "bits": [
+                "clay",
+                "copper"
+            ]
+        },
+        {
+            "frame": "musical notes",
+            "bits": [
+                "essence",
+                "iron"
+            ]
+        },
+        {
+            "frame": "winners podium",
+            "bits": [
+                "iron",
+                "stone"
+            ]
+        },
+        {
+            "frame": "manticore",
+            "bits": [
+                "bone",
+                "magma"
+            ]
+        },
+        {
+            "frame": "tipsy",
+            "bits": [
+                "salt",
+                "sugar"
+            ]
+        },
+        {
+            "frame": "nordic",
+            "bits": [
+                "salt",
+                "stone"
+            ]
+        },
+        {
+            "frame": "shiba inu",
+            "bits": [
+                "bone",
+                "essence"
+            ]
+        },
+        {
+            "frame": "toy mecha",
+            "bits": [
+                "ice",
+                "uranium"
+            ]
+        },
+        {
+            "frame": "bubble tea",
+            "bits": [
+                "ice",
+                "leaf"
+            ]
+        },
+        {
+            "frame": "morning dew",
+            "bits": [
+                "flower",
+                "ice"
+            ]
+        },
+        {
+            "frame": "nurses office",
+            "bits": [
+                "bone",
+                "sugar"
+            ]
+        }
+    ]
+}

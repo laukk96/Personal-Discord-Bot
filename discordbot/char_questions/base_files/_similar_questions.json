@@ -1,0 +1,3184 @@
+{
+    "similar_question_indexes": [
+        [
+            0,
+            27,
+            144,
+            346
+        ],
+        [
+            1,
+            265
+        ],
+        [
+            2,
+            130,
+            136,
+            220,
+            250,
+            307
+        ],
+        [
+            3
+        ],
+        [
+            4,
+            77,
+            168,
+            192,
+            279,
+            280,
+            318,
+            320,
+            342,
+            364,
+            441,
+            453,
+            460,
+            485,
+            521,
+            537,
+            538,
+            562,
+            571,
+            576,
+            666,
+            689,
+            733,
+            803
+        ],
+        [
+            5
+        ],
+        [
+            6
+        ],
+        [
+            7
+        ],
+        [
+            8,
+            96,
+            141,
+            339,
+            344,
+            359
+        ],
+        [
+            9,
+            106,
+            115,
+            119,
+            174,
+            399
+        ],
+        [
+            10
+        ],
+        [
+            11
+        ],
+        [
+            12
+        ],
+        [
+            13,
+            189,
+            197,
+            206
+        ],
+        [
+            14
+        ],
+        [
+            15,
+            23,
+            89,
+            308,
+            466,
+            487
+        ],
+        [
+            16
+        ],
+        [
+            17
+        ],
+        [
+            18
+        ],
+        [
+            19
+        ],
+        [
+            20,
+            217
+        ],
+        [
+            21
+        ],
+        [
+            22,
+            34,
+            243,
+            369,
+            370,
+            528
+        ],
+        [
+            24,
+            59,
+            133,
+            179,
+            293,
+            302,
+            317,
+            430,
+            431,
+            504,
+            534,
+            619,
+            622,
+            661
+        ],
+        [
+            25,
+            275,
+            396,
+            471
+        ],
+        [
+            26,
+            71,
+            474
+        ],
+        [
+            28
+        ],
+        [
+            29
+        ],
+        [
+            30,
+            171,
+            178,
+            331
+        ],
+        [
+            31
+        ],
+        [
+            32
+        ],
+        [
+            33
+        ],
+        [
+            35
+        ],
+        [
+            36
+        ],
+        [
+            37
+        ],
+        [
+            38
+        ],
+        [
+            39
+        ],
+        [
+            40,
+            75,
+            215,
+            252,
+            380,
+            437,
+            498
+        ],
+        [
+            41
+        ],
+        [
+            42
+        ],
+        [
+            43,
+            154,
+            255,
+            260,
+            301,
+            400
+        ],
+        [
+            44
+        ],
+        [
+            45
+        ],
+        [
+            46,
+            64,
+            166,
+            181
+        ],
+        [
+            47
+        ],
+        [
+            48,
+            199,
+            242,
+            286,
+            304,
+            353,
+            366,
+            398,
+            413,
+            438,
+            452,
+            455,
+            467,
+            482,
+            493,
+            530,
+            567,
+            584,
+            598,
+            616,
+            627,
+            638,
+            639,
+            640,
+            649,
+            659,
+            693,
+            696,
+            716,
+            741,
+            754,
+            758,
+            759,
+            763,
+            766,
+            768,
+            812,
+            827
+        ],
+        [
+            49
+        ],
+        [
+            50
+        ],
+        [
+            51
+        ],
+        [
+            52,
+            297
+        ],
+        [
+            53
+        ],
+        [
+            54
+        ],
+        [
+            55,
+            132,
+            146,
+            361
+        ],
+        [
+            56,
+            90,
+            224,
+            253,
+            269,
+            273
+        ],
+        [
+            57
+        ],
+        [
+            58
+        ],
+        [
+            60,
+            140
+        ],
+        [
+            61
+        ],
+        [
+            62
+        ],
+        [
+            63
+        ],
+        [
+            65,
+            173,
+            272,
+            319,
+            322,
+            329,
+            417,
+            472,
+            608,
+            613
+        ],
+        [
+            66
+        ],
+        [
+            67
+        ],
+        [
+            68
+        ],
+        [
+            69
+        ],
+        [
+            70
+        ],
+        [
+            72,
+            334
+        ],
+        [
+            73
+        ],
+        [
+            74
+        ],
+        [
+            76
+        ],
+        [
+            78,
+            186
+        ],
+        [
+            79,
+            83,
+            183,
+            262,
+            289,
+            292,
+            324,
+            335,
+            338,
+            395,
+            419,
+            420,
+            424,
+            444,
+            465,
+            486,
+            516,
+            573,
+            593,
+            603,
+            632,
+            647,
+            655,
+            675,
+            678,
+            710,
+            715,
+            742,
+            747,
+            787,
+            792,
+            819
+        ],
+        [
+            80
+        ],
+        [
+            81
+        ],
+        [
+            82,
+            137,
+            193,
+            278,
+            306,
+            309,
+            311,
+            349,
+            360,
+            432,
+            442,
+            448,
+            492,
+            510,
+            514,
+            517,
+            539,
+            541,
+            546,
+            551,
+            553,
+            558,
+            572,
+            583,
+            587,
+            591,
+            592,
+            609,
+            623,
+            652,
+            671,
+            682,
+            688,
+            691,
+            707,
+            711,
+            714,
+            717,
+            722,
+            724,
+            725,
+            729,
+            739,
+            740,
+            748,
+            751,
+            755,
+            782,
+            783,
+            785,
+            790,
+            800,
+            808,
+            815,
+            821,
+            822,
+            829,
+            830
+        ],
+        [
+            84,
+            235,
+            254,
+            283,
+            300,
+            391,
+            449,
+            461,
+            484
+        ],
+        [
+            85
+        ],
+        [
+            86
+        ],
+        [
+            87
+        ],
+        [
+            88
+        ],
+        [
+            91
+        ],
+        [
+            92
+        ],
+        [
+            93
+        ],
+        [
+            94
+        ],
+        [
+            95,
+            111,
+            211,
+            268,
+            270,
+            347,
+            355,
+            368,
+            371,
+            381,
+            387,
+            411,
+            479,
+            520,
+            540,
+            547,
+            554,
+            579,
+            600,
+            620,
+            625,
+            642,
+            673,
+            680,
+            686,
+            694,
+            704,
+            727,
+            730,
+            761
+        ],
+        [
+            97,
+            123,
+            246,
+            276,
+            473
+        ],
+        [
+            98,
+            124,
+            147,
+            156,
+            210,
+            332,
+            356,
+            464
+        ],
+        [
+            99,
+            248,
+            298,
+            358
+        ],
+        [
+            100,
+            266,
+            418,
+            433
+        ],
+        [
+            101
+        ],
+        [
+            102
+        ],
+        [
+            103
+        ],
+        [
+            104
+        ],
+        [
+            105
+        ],
+        [
+            107,
+            208,
+            321,
+            403
+        ],
+        [
+            108
+        ],
+        [
+            109,
+            291
+        ],
+        [
+            110
+        ],
+        [
+            112
+        ],
+        [
+            113,
+            188,
+            222,
+            256,
+            295,
+            328,
+            341,
+            365,
+            457,
+            475,
+            526,
+            542,
+            545,
+            606,
+            628,
+            648
+        ],
+        [
+            114
+        ],
+        [
+            116,
+            129,
+            237,
+            314
+        ],
+        [
+            117
+        ],
+        [
+            118
+        ],
+        [
+            120
+        ],
+        [
+            121,
+            214,
+            230
+        ],
+        [
+            122
+        ],
+        [
+            125
+        ],
+        [
+            126,
+            202,
+            271,
+            288,
+            343,
+            348,
+            384,
+            401,
+            429,
+            443,
+            490,
+            491,
+            494,
+            500,
+            501,
+            513,
+            515,
+            533,
+            561,
+            563,
+            564,
+            580,
+            581,
+            588,
+            599,
+            617,
+            618,
+            621,
+            626,
+            633,
+            656,
+            668,
+            692,
+            698,
+            699,
+            720,
+            726,
+            728,
+            743,
+            753,
+            769,
+            771,
+            775,
+            776,
+            777,
+            780,
+            786,
+            789,
+            796,
+            804,
+            810,
+            814,
+            818,
+            825,
+            832
+        ],
+        [
+            127
+        ],
+        [
+            128,
+            149,
+            175,
+            205,
+            245,
+            261,
+            303,
+            458
+        ],
+        [
+            131,
+            257,
+            316,
+            327,
+            340,
+            362,
+            375,
+            386,
+            392,
+            511,
+            525,
+            612
+        ],
+        [
+            134,
+            277,
+            416,
+            505
+        ],
+        [
+            135,
+            231,
+            305,
+            310,
+            315,
+            363,
+            405,
+            566
+        ],
+        [
+            138
+        ],
+        [
+            139,
+            247
+        ],
+        [
+            142,
+            145,
+            187,
+            190,
+            236,
+            299,
+            389,
+            496
+        ],
+        [
+            143
+        ],
+        [
+            148
+        ],
+        [
+            150
+        ],
+        [
+            151
+        ],
+        [
+            152,
+            157,
+            212,
+            376,
+            454,
+            456
+        ],
+        [
+            153,
+            194,
+            227,
+            244,
+            325,
+            326,
+            333,
+            388,
+            414,
+            421,
+            483,
+            529,
+            559,
+            560,
+            610,
+            685
+        ],
+        [
+            155
+        ],
+        [
+            158
+        ],
+        [
+            159,
+            233
+        ],
+        [
+            160
+        ],
+        [
+            161
+        ],
+        [
+            162
+        ],
+        [
+            163,
+            207,
+            229,
+            264,
+            282,
+            352,
+            378,
+            382,
+            402,
+            415,
+            488,
+            495,
+            509,
+            523,
+            531,
+            552,
+            557,
+            570,
+            574,
+            577,
+            578,
+            586,
+            594,
+            624,
+            629,
+            644,
+            654,
+            664,
+            667,
+            669,
+            677,
+            684,
+            695,
+            697,
+            705,
+            721,
+            735,
+            744,
+            745,
+            746,
+            756,
+            757,
+            765,
+            784,
+            795,
+            798,
+            799,
+            816,
+            824
+        ],
+        [
+            164
+        ],
+        [
+            165
+        ],
+        [
+            167
+        ],
+        [
+            169,
+            249,
+            258,
+            296,
+            345,
+            367,
+            379,
+            385,
+            412,
+            459,
+            519,
+            773
+        ],
+        [
+            170
+        ],
+        [
+            172
+        ],
+        [
+            176,
+            241,
+            294,
+            390,
+            406,
+            470,
+            477,
+            527
+        ],
+        [
+            177
+        ],
+        [
+            180
+        ],
+        [
+            182
+        ],
+        [
+            184
+        ],
+        [
+            185
+        ],
+        [
+            191,
+            221,
+            228,
+            281,
+            287,
+            313,
+            357,
+            393,
+            394,
+            397,
+            407,
+            409,
+            426,
+            428,
+            447,
+            462,
+            497,
+            508,
+            522,
+            535,
+            544,
+            549,
+            550,
+            556,
+            568,
+            590,
+            601,
+            605,
+            611,
+            614,
+            630,
+            636,
+            637,
+            641,
+            643,
+            645,
+            657,
+            660,
+            663,
+            679,
+            683,
+            700,
+            701,
+            702,
+            708,
+            712,
+            719,
+            723,
+            731,
+            738,
+            750,
+            762,
+            764,
+            767,
+            772,
+            774,
+            778,
+            781,
+            788,
+            794,
+            797,
+            801,
+            802,
+            806,
+            807,
+            809,
+            811,
+            813,
+            820,
+            823,
+            828
+        ],
+        [
+            195,
+            285,
+            312,
+            323,
+            351,
+            423,
+            425,
+            446,
+            463,
+            481,
+            502,
+            503,
+            518,
+            595,
+            607,
+            651,
+            670,
+            791
+        ],
+        [
+            196
+        ],
+        [
+            198
+        ],
+        [
+            200
+        ],
+        [
+            201
+        ],
+        [
+            203
+        ],
+        [
+            204,
+            274,
+            336,
+            354,
+            373,
+            410,
+            422,
+            434,
+            440,
+            450,
+            469,
+            476,
+            480,
+            489,
+            499,
+            506,
+            524,
+            536,
+            569,
+            597,
+            602,
+            615,
+            653,
+            658,
+            703,
+            709,
+            760
+        ],
+        [
+            209
+        ],
+        [
+            213
+        ],
+        [
+            216
+        ],
+        [
+            218,
+            226,
+            232,
+            239,
+            267,
+            383,
+            435,
+            439,
+            451,
+            468,
+            507,
+            548,
+            589,
+            596,
+            631,
+            634,
+            635,
+            646,
+            672,
+            674,
+            676,
+            681,
+            690,
+            734,
+            736,
+            752,
+            779,
+            826
+        ],
+        [
+            219
+        ],
+        [
+            223
+        ],
+        [
+            225
+        ],
+        [
+            234
+        ],
+        [
+            238,
+            330,
+            350,
+            374,
+            377,
+            408,
+            427,
+            436,
+            445,
+            478,
+            512,
+            532,
+            543,
+            555,
+            565,
+            575,
+            582,
+            585,
+            604,
+            650,
+            662,
+            665,
+            687,
+            706,
+            713,
+            718,
+            732,
+            737,
+            749,
+            770,
+            793,
+            805,
+            817,
+            831
+        ],
+        [
+            240
+        ],
+        [
+            251,
+            290
+        ],
+        [
+            259,
+            284,
+            337,
+            404
+        ],
+        [
+            263
+        ]
+    ],
+    "answer_group": [
+        [
+            "1\ufe0f\u20e3 They're great",
+            "2\ufe0f\u20e3 They're too violent"
+        ],
+        [
+            "1\ufe0f\u20e3 Not important at all",
+            "2\ufe0f\u20e3 Very important",
+            "3\ufe0f\u20e3 Somewhat important"
+        ],
+        [
+            "1\ufe0f\u20e3 My brain",
+            "2\ufe0f\u20e3 My heart"
+        ],
+        [
+            "1\ufe0f\u20e3 Fire",
+            "2\ufe0f\u20e3 Ice",
+            "3\ufe0f\u20e3 Wind",
+            "4\ufe0f\u20e3 Electricity"
+        ],
+        [
+            "1\ufe0f\u20e3 Spring",
+            "2\ufe0f\u20e3 Winter",
+            "3\ufe0f\u20e3 Fall",
+            "4\ufe0f\u20e3 Summer"
+        ],
+        [
+            "1\ufe0f\u20e3 It's not right",
+            "2\ufe0f\u20e3 I don't care about pets",
+            "3\ufe0f\u20e3 It's in humanity's best interests"
+        ],
+        [
+            "1\ufe0f\u20e3 Natural disasters",
+            "2\ufe0f\u20e3 Disease",
+            "3\ufe0f\u20e3 Poverty",
+            "4\ufe0f\u20e3 Climate change"
+        ],
+        [
+            "1\ufe0f\u20e3 I love it",
+            "2\ufe0f\u20e3 I'm too mature for it",
+            "3\ufe0f\u20e3 I hate it"
+        ],
+        [
+            "1\ufe0f\u20e3 Warrior",
+            "2\ufe0f\u20e3 Thief",
+            "3\ufe0f\u20e3 Monk",
+            "4\ufe0f\u20e3 Wizard"
+        ],
+        [
+            "1\ufe0f\u20e3 Wheel",
+            "2\ufe0f\u20e3 Compass",
+            "3\ufe0f\u20e3 Printing press"
+        ],
+        [
+            "1\ufe0f\u20e3 A willingness to stand up for others",
+            "2\ufe0f\u20e3 Brutal honesty",
+            "3\ufe0f\u20e3 Gratefulness"
+        ],
+        [
+            "1\ufe0f\u20e3 Blackjack",
+            "2\ufe0f\u20e3 Solitaire",
+            "3\ufe0f\u20e3 Go Fish",
+            "4\ufe0f\u20e3 Poker"
+        ],
+        [
+            "1\ufe0f\u20e3 They have ulterior motives",
+            "2\ufe0f\u20e3 There must be a catch",
+            "3\ufe0f\u20e3 They're nice and thoughtful"
+        ],
+        [
+            "1\ufe0f\u20e3 Brown",
+            "2\ufe0f\u20e3 Blonde",
+            "3\ufe0f\u20e3 Black",
+            "4\ufe0f\u20e3 Red"
+        ],
+        [
+            "1\ufe0f\u20e3 Fairly funny",
+            "2\ufe0f\u20e3 Very funny",
+            "3\ufe0f\u20e3 Not funny at all"
+        ],
+        [
+            "1\ufe0f\u20e3 I'm not a fan of them",
+            "2\ufe0f\u20e3 They're joyous occasions",
+            "3\ufe0f\u20e3 They're tolerable"
+        ],
+        [
+            "1\ufe0f\u20e3 My family",
+            "2\ufe0f\u20e3 Myself",
+            "3\ufe0f\u20e3 My significant other"
+        ],
+        [
+            "1\ufe0f\u20e3 Cranberry",
+            "2\ufe0f\u20e3 Strawberry",
+            "3\ufe0f\u20e3 Raspberry",
+            "4\ufe0f\u20e3 Blueberry"
+        ],
+        [
+            "1\ufe0f\u20e3 Peanut butter",
+            "2\ufe0f\u20e3 Sugar",
+            "3\ufe0f\u20e3 Oatmeal raisin",
+            "4\ufe0f\u20e3 Chocolate chip"
+        ],
+        [
+            "1\ufe0f\u20e3 Sweeping",
+            "2\ufe0f\u20e3 Doing laundry",
+            "3\ufe0f\u20e3 Washing dishes",
+            "4\ufe0f\u20e3 Preparing meals"
+        ],
+        [
+            "1\ufe0f\u20e3 History",
+            "2\ufe0f\u20e3 Science",
+            "3\ufe0f\u20e3 Math"
+        ],
+        [
+            "1\ufe0f\u20e3 Very brave",
+            "2\ufe0f\u20e3 Not brave at all",
+            "3\ufe0f\u20e3 Fairly brave"
+        ],
+        [
+            "1\ufe0f\u20e3 Animal",
+            "2\ufe0f\u20e3 Health",
+            "3\ufe0f\u20e3 Environmental"
+        ],
+        [
+            "1\ufe0f\u20e3 Action/adventure",
+            "2\ufe0f\u20e3 Strategy",
+            "3\ufe0f\u20e3 Shooter",
+            "4\ufe0f\u20e3 Role-playing"
+        ],
+        [
+            "1\ufe0f\u20e3 A lake",
+            "2\ufe0f\u20e3 The ocean",
+            "3\ufe0f\u20e3 A pool"
+        ],
+        [
+            "1\ufe0f\u20e3 Something else",
+            "2\ufe0f\u20e3 Their eyes",
+            "3\ufe0f\u20e3 Their smile"
+        ],
+        [
+            "1\ufe0f\u20e3 Vampires",
+            "2\ufe0f\u20e3 Mermaids",
+            "3\ufe0f\u20e3 Angels",
+            "4\ufe0f\u20e3 Unicorns"
+        ],
+        [
+            "1\ufe0f\u20e3 Lemon",
+            "2\ufe0f\u20e3 Lime",
+            "3\ufe0f\u20e3 Grapefruit",
+            "4\ufe0f\u20e3 Orange"
+        ],
+        [
+            "1\ufe0f\u20e3 Respect",
+            "2\ufe0f\u20e3 Loyalty",
+            "3\ufe0f\u20e3 Honesty"
+        ],
+        [
+            "1\ufe0f\u20e3 They don't care about me",
+            "2\ufe0f\u20e3 Something bad happened to them",
+            "3\ufe0f\u20e3 They're just busy"
+        ],
+        [
+            "1\ufe0f\u20e3 Stucco",
+            "2\ufe0f\u20e3 Marble",
+            "3\ufe0f\u20e3 Stone",
+            "4\ufe0f\u20e3 Brick"
+        ],
+        [
+            "1\ufe0f\u20e3 Diamond",
+            "2\ufe0f\u20e3 Aquamarine",
+            "3\ufe0f\u20e3 Garnet",
+            "4\ufe0f\u20e3 Peridot"
+        ],
+        [
+            "1\ufe0f\u20e3 Street vendor",
+            "2\ufe0f\u20e3 Mall",
+            "3\ufe0f\u20e3 Flea market"
+        ],
+        [
+            "1\ufe0f\u20e3 Not outgoing at all",
+            "2\ufe0f\u20e3 Fairly outgoing",
+            "3\ufe0f\u20e3 Very outgoing"
+        ],
+        [
+            "1\ufe0f\u20e3 Drowning",
+            "2\ufe0f\u20e3 Burning to death",
+            "3\ufe0f\u20e3 Starving to death",
+            "4\ufe0f\u20e3 Falling from a cliff"
+        ],
+        [
+            "1\ufe0f\u20e3 None that I know of",
+            "2\ufe0f\u20e3 Several",
+            "3\ufe0f\u20e3 Just one"
+        ],
+        [
+            "1\ufe0f\u20e3 Too slow",
+            "2\ufe0f\u20e3 Too fast"
+        ],
+        [
+            "1\ufe0f\u20e3 Something with scales",
+            "2\ufe0f\u20e3 Something with feathers",
+            "3\ufe0f\u20e3 Something with fur"
+        ],
+        [
+            "1\ufe0f\u20e3 On my back",
+            "2\ufe0f\u20e3 On my stomach",
+            "3\ufe0f\u20e3 On my side"
+        ],
+        [
+            "1\ufe0f\u20e3 Fishing",
+            "2\ufe0f\u20e3 Camping",
+            "3\ufe0f\u20e3 Hiking",
+            "4\ufe0f\u20e3 Biking"
+        ],
+        [
+            "1\ufe0f\u20e3 Something for entertainment",
+            "2\ufe0f\u20e3 Something for survival",
+            "3\ufe0f\u20e3 Someone for company"
+        ],
+        [
+            "1\ufe0f\u20e3 Absolutely nothing",
+            "2\ufe0f\u20e3 You transcend to an afterlife",
+            "3\ufe0f\u20e3 You're reincarnated within the same world"
+        ],
+        [
+            "1\ufe0f\u20e3 Learning a new language",
+            "2\ufe0f\u20e3 Going skydiving",
+            "3\ufe0f\u20e3 Riding in a hot-air balloon",
+            "4\ufe0f\u20e3 Swimming with dolphins"
+        ],
+        [
+            "1\ufe0f\u20e3 Blue",
+            "2\ufe0f\u20e3 Brown",
+            "3\ufe0f\u20e3 Green"
+        ],
+        [
+            "1\ufe0f\u20e3 Not shy at all",
+            "2\ufe0f\u20e3 Fairly shy",
+            "3\ufe0f\u20e3 Very shy"
+        ],
+        [
+            "1\ufe0f\u20e3 Teacher",
+            "2\ufe0f\u20e3 Doctor",
+            "3\ufe0f\u20e3 Engineer"
+        ],
+        [
+            "1\ufe0f\u20e3 Not violent at all",
+            "2\ufe0f\u20e3 Fairly violent",
+            "3\ufe0f\u20e3 Very violent"
+        ],
+        [
+            "1\ufe0f\u20e3 Very friendly",
+            "2\ufe0f\u20e3 Fairly friendly",
+            "3\ufe0f\u20e3 Not friendly at all"
+        ],
+        [
+            "1\ufe0f\u20e3 Not attractive at all",
+            "2\ufe0f\u20e3 Very attractive",
+            "3\ufe0f\u20e3 Fairly attractive"
+        ],
+        [
+            "1\ufe0f\u20e3 Trespassing",
+            "2\ufe0f\u20e3 Vandalism",
+            "3\ufe0f\u20e3 Theft",
+            "4\ufe0f\u20e3 Prostitution"
+        ],
+        [
+            "1\ufe0f\u20e3 Dinner",
+            "2\ufe0f\u20e3 Lunch",
+            "3\ufe0f\u20e3 Breakfast"
+        ],
+        [
+            "1\ufe0f\u20e3 It sounds like fun",
+            "2\ufe0f\u20e3 It's too dangerous",
+            "3\ufe0f\u20e3 It's a waste of time"
+        ],
+        [
+            "1\ufe0f\u20e3 Hail",
+            "2\ufe0f\u20e3 Lightning",
+            "3\ufe0f\u20e3 Wind"
+        ],
+        [
+            "1\ufe0f\u20e3 Fire and rescue",
+            "2\ufe0f\u20e3 Law enforcement",
+            "3\ufe0f\u20e3 Emergency medical"
+        ],
+        [
+            "1\ufe0f\u20e3 Fairly smart",
+            "2\ufe0f\u20e3 Very smart",
+            "3\ufe0f\u20e3 Not smart at all"
+        ],
+        [
+            "1\ufe0f\u20e3 The one with the most popular people",
+            "2\ufe0f\u20e3 The one with the least people",
+            "3\ufe0f\u20e3 The one with people you're curious about"
+        ],
+        [
+            "1\ufe0f\u20e3 Curly",
+            "2\ufe0f\u20e3 Wavy",
+            "3\ufe0f\u20e3 Straight"
+        ],
+        [
+            "1\ufe0f\u20e3 Rings",
+            "2\ufe0f\u20e3 Earrings",
+            "3\ufe0f\u20e3 Necklaces",
+            "4\ufe0f\u20e3 Bracelets"
+        ],
+        [
+            "1\ufe0f\u20e3 Stun gun",
+            "2\ufe0f\u20e3 Pepper spray",
+            "3\ufe0f\u20e3 Steel baton"
+        ],
+        [
+            "1\ufe0f\u20e3 Pepperoni",
+            "2\ufe0f\u20e3 Extra cheese",
+            "3\ufe0f\u20e3 Pineapple",
+            "4\ufe0f\u20e3 Sausage"
+        ],
+        [
+            "1\ufe0f\u20e3 Kunai",
+            "2\ufe0f\u20e3 Katana",
+            "3\ufe0f\u20e3 Shuriken"
+        ],
+        [
+            "1\ufe0f\u20e3 Stealing",
+            "2\ufe0f\u20e3 Lying",
+            "3\ufe0f\u20e3 Cheating"
+        ],
+        [
+            "1\ufe0f\u20e3 Colonial",
+            "2\ufe0f\u20e3 Renaissance fair",
+            "3\ufe0f\u20e3 Old West"
+        ],
+        [
+            "1\ufe0f\u20e3 Peach",
+            "2\ufe0f\u20e3 Nectarine",
+            "3\ufe0f\u20e3 Apricot",
+            "4\ufe0f\u20e3 Plum"
+        ],
+        [
+            "1\ufe0f\u20e3 You've never spoken",
+            "2\ufe0f\u20e3 High-pitched",
+            "3\ufe0f\u20e3 Low-pitched",
+            "4\ufe0f\u20e3 Average-pitched"
+        ],
+        [
+            "1\ufe0f\u20e3 Tennis",
+            "2\ufe0f\u20e3 Golf",
+            "3\ufe0f\u20e3 Basketball",
+            "4\ufe0f\u20e3 Volleyball"
+        ],
+        [
+            "1\ufe0f\u20e3 Hearing",
+            "2\ufe0f\u20e3 Sight",
+            "3\ufe0f\u20e3 Smell",
+            "4\ufe0f\u20e3 Taste"
+        ],
+        [
+            "1\ufe0f\u20e3 Paintings",
+            "2\ufe0f\u20e3 Sculptures",
+            "3\ufe0f\u20e3 Crafts"
+        ],
+        [
+            "1\ufe0f\u20e3 About average",
+            "2\ufe0f\u20e3 Younger",
+            "3\ufe0f\u20e3 Older"
+        ],
+        [
+            "1\ufe0f\u20e3 Very arrogant",
+            "2\ufe0f\u20e3 Not arrogant at all",
+            "3\ufe0f\u20e3 Fairly arrogant"
+        ],
+        [
+            "1\ufe0f\u20e3 A squid",
+            "2\ufe0f\u20e3 A piranha",
+            "3\ufe0f\u20e3 A koi",
+            "4\ufe0f\u20e3 A blowfish"
+        ],
+        [
+            "1\ufe0f\u20e3 Romantic relationships",
+            "2\ufe0f\u20e3 Friendships",
+            "3\ufe0f\u20e3 Family bonds"
+        ],
+        [
+            "1\ufe0f\u20e3 Dodo",
+            "2\ufe0f\u20e3 Woolly mammoth",
+            "3\ufe0f\u20e3 Sabre-toothed cat",
+            "4\ufe0f\u20e3 Western black rhinoceros"
+        ],
+        [
+            "1\ufe0f\u20e3 Sheep",
+            "2\ufe0f\u20e3 Cows",
+            "3\ufe0f\u20e3 Chickens",
+            "4\ufe0f\u20e3 Pigs"
+        ],
+        [
+            "1\ufe0f\u20e3 Drive all the way back to complain",
+            "2\ufe0f\u20e3 Say nothing about it",
+            "3\ufe0f\u20e3 Offer to trade food with you"
+        ],
+        [
+            "1\ufe0f\u20e3 A life of love",
+            "2\ufe0f\u20e3 A long life",
+            "3\ufe0f\u20e3 A life on the edge"
+        ],
+        [
+            "1\ufe0f\u20e3 We should interact with them",
+            "2\ufe0f\u20e3 We should stay away from them",
+            "3\ufe0f\u20e3 They don't exist"
+        ],
+        [
+            "1\ufe0f\u20e3 Gold",
+            "2\ufe0f\u20e3 Silver",
+            "3\ufe0f\u20e3 Platinum"
+        ],
+        [
+            "1\ufe0f\u20e3 Fruit",
+            "2\ufe0f\u20e3 Vegetable"
+        ],
+        [
+            "1\ufe0f\u20e3 Harp",
+            "2\ufe0f\u20e3 Flute",
+            "3\ufe0f\u20e3 Trumpet",
+            "4\ufe0f\u20e3 Guitar"
+        ],
+        [
+            "1\ufe0f\u20e3 Not powerful at all",
+            "2\ufe0f\u20e3 Very powerful",
+            "3\ufe0f\u20e3 Fairly powerful"
+        ],
+        [
+            "1\ufe0f\u20e3 It's necessary",
+            "2\ufe0f\u20e3 It's immoral",
+            "3\ufe0f\u20e3 It's great"
+        ],
+        [
+            "1\ufe0f\u20e3 To have fun",
+            "2\ufe0f\u20e3 To compete",
+            "3\ufe0f\u20e3 To kill time"
+        ],
+        [
+            "1\ufe0f\u20e3 Snowy tundra",
+            "2\ufe0f\u20e3 Wooded mountains",
+            "3\ufe0f\u20e3 Swampy marsh",
+            "4\ufe0f\u20e3 Desert savanna"
+        ],
+        [
+            "1\ufe0f\u20e3 Late",
+            "2\ufe0f\u20e3 Early"
+        ],
+        [
+            "1\ufe0f\u20e3 Coffee",
+            "2\ufe0f\u20e3 Tea",
+            "3\ufe0f\u20e3 Juice",
+            "4\ufe0f\u20e3 Soda"
+        ],
+        [
+            "1\ufe0f\u20e3 Give them the death penalty",
+            "2\ufe0f\u20e3 Lock them away in confinement",
+            "3\ufe0f\u20e3 Send them to rehabilitation"
+        ],
+        [
+            "1\ufe0f\u20e3 That's disgusting",
+            "2\ufe0f\u20e3 I'd only do it if necessary",
+            "3\ufe0f\u20e3 That sounds fine"
+        ],
+        [
+            "1\ufe0f\u20e3 Take time to browse",
+            "2\ufe0f\u20e3 Get in and out quickly"
+        ],
+        [
+            "1\ufe0f\u20e3 Citrus fruits",
+            "2\ufe0f\u20e3 Melons",
+            "3\ufe0f\u20e3 Berries",
+            "4\ufe0f\u20e3 Stone fruits"
+        ],
+        [
+            "1\ufe0f\u20e3 Cake",
+            "2\ufe0f\u20e3 Donuts",
+            "3\ufe0f\u20e3 Ice cream",
+            "4\ufe0f\u20e3 Brownies"
+        ],
+        [
+            "1\ufe0f\u20e3 Grilled cheese",
+            "2\ufe0f\u20e3 Rice and beans",
+            "3\ufe0f\u20e3 Ramen noodles",
+            "4\ufe0f\u20e3 Saltine crackers"
+        ],
+        [
+            "1\ufe0f\u20e3 Clubs",
+            "2\ufe0f\u20e3 Hearts",
+            "3\ufe0f\u20e3 Diamonds",
+            "4\ufe0f\u20e3 Spades"
+        ],
+        [
+            "1\ufe0f\u20e3 Strength",
+            "2\ufe0f\u20e3 Charisma",
+            "3\ufe0f\u20e3 Intelligence"
+        ],
+        [
+            "1\ufe0f\u20e3 Sweet",
+            "2\ufe0f\u20e3 Bitter",
+            "3\ufe0f\u20e3 Salty",
+            "4\ufe0f\u20e3 Sour"
+        ],
+        [
+            "1\ufe0f\u20e3 Cacti",
+            "2\ufe0f\u20e3 Azaleas",
+            "3\ufe0f\u20e3 Strawberries",
+            "4\ufe0f\u20e3 Tomatoes"
+        ],
+        [
+            "1\ufe0f\u20e3 Kitchen",
+            "2\ufe0f\u20e3 Pool",
+            "3\ufe0f\u20e3 Bedroom"
+        ],
+        [
+            "1\ufe0f\u20e3 Watermelon",
+            "2\ufe0f\u20e3 Honeydew",
+            "3\ufe0f\u20e3 Cantaloupe"
+        ],
+        [
+            "1\ufe0f\u20e3 Praying mantises",
+            "2\ufe0f\u20e3 Bumblebees",
+            "3\ufe0f\u20e3 Fire ants",
+            "4\ufe0f\u20e3 Ladybugs"
+        ],
+        [
+            "1\ufe0f\u20e3 Ambivert",
+            "2\ufe0f\u20e3 Introvert",
+            "3\ufe0f\u20e3 Extravert"
+        ],
+        [
+            "1\ufe0f\u20e3 Earth",
+            "2\ufe0f\u20e3 Air",
+            "3\ufe0f\u20e3 Fire",
+            "4\ufe0f\u20e3 Water"
+        ],
+        [
+            "1\ufe0f\u20e3 Reading a book",
+            "2\ufe0f\u20e3 Watching a movie",
+            "3\ufe0f\u20e3 Playing a game"
+        ],
+        [
+            "1\ufe0f\u20e3 Hearing",
+            "2\ufe0f\u20e3 Taste",
+            "3\ufe0f\u20e3 Smell"
+        ],
+        [
+            "1\ufe0f\u20e3 Sapphire",
+            "2\ufe0f\u20e3 Emerald",
+            "3\ufe0f\u20e3 Ruby",
+            "4\ufe0f\u20e3 Diamond"
+        ],
+        [
+            "1\ufe0f\u20e3 Pestilence",
+            "2\ufe0f\u20e3 Death",
+            "3\ufe0f\u20e3 War",
+            "4\ufe0f\u20e3 Famine"
+        ],
+        [
+            "1\ufe0f\u20e3 Super strength",
+            "2\ufe0f\u20e3 Telepathy",
+            "3\ufe0f\u20e3 Invisibility",
+            "4\ufe0f\u20e3 Flight"
+        ],
+        [
+            "1\ufe0f\u20e3 \ud83e\udd70",
+            "2\ufe0f\u20e3 \ud83d\ude0e",
+            "3\ufe0f\u20e3 \ud83d\ude14",
+            "4\ufe0f\u20e3 \ud83e\udd2a"
+        ],
+        [
+            "1\ufe0f\u20e3 Doesn't matter",
+            "2\ufe0f\u20e3 Heavier",
+            "3\ufe0f\u20e3 Slimmer"
+        ],
+        [
+            "1\ufe0f\u20e3 A tropical island",
+            "2\ufe0f\u20e3 A snowy resort",
+            "3\ufe0f\u20e3 A mountaintop"
+        ],
+        [
+            "1\ufe0f\u20e3 Broken locks",
+            "2\ufe0f\u20e3 Poor air conditioning",
+            "3\ufe0f\u20e3 Noisy neighbors"
+        ],
+        [
+            "1\ufe0f\u20e3 Remain calm and assist others",
+            "2\ufe0f\u20e3 Call the person I love most",
+            "3\ufe0f\u20e3 Say a prayer and hope for the best"
+        ],
+        [
+            "1\ufe0f\u20e3 Debate to see if I can sway you",
+            "2\ufe0f\u20e3 Have second thoughts about talking to you",
+            "3\ufe0f\u20e3 Allow you to think the way you want"
+        ],
+        [
+            "1\ufe0f\u20e3 Cuddling",
+            "2\ufe0f\u20e3 Kissing",
+            "3\ufe0f\u20e3 Hugging"
+        ],
+        [
+            "1\ufe0f\u20e3 It sounds like fun",
+            "2\ufe0f\u20e3 I'd rather not do it"
+        ],
+        [
+            "1\ufe0f\u20e3 Fairly evil",
+            "2\ufe0f\u20e3 Not evil at all",
+            "3\ufe0f\u20e3 Very evil"
+        ],
+        [
+            "1\ufe0f\u20e3 Duke/Duchess",
+            "2\ufe0f\u20e3 Prince/Princess",
+            "3\ufe0f\u20e3 King/Queen",
+            "4\ufe0f\u20e3 Baron/Baroness"
+        ],
+        [
+            "1\ufe0f\u20e3 They're from out of town",
+            "2\ufe0f\u20e3 Nobody cares about them",
+            "3\ufe0f\u20e3 They want peace and quiet"
+        ],
+        [
+            "1\ufe0f\u20e3 Spiders",
+            "2\ufe0f\u20e3 Deep water",
+            "3\ufe0f\u20e3 Needles",
+            "4\ufe0f\u20e3 Heights"
+        ],
+        [
+            "1\ufe0f\u20e3 Chupacabra",
+            "2\ufe0f\u20e3 Kraken",
+            "3\ufe0f\u20e3 Bigfoot"
+        ],
+        [
+            "1\ufe0f\u20e3 Love",
+            "2\ufe0f\u20e3 Knowledge",
+            "3\ufe0f\u20e3 Wealth"
+        ],
+        [
+            "1\ufe0f\u20e3 Dandere",
+            "2\ufe0f\u20e3 Kuudere",
+            "3\ufe0f\u20e3 Yandere",
+            "4\ufe0f\u20e3 Tsundere"
+        ],
+        [
+            "1\ufe0f\u20e3 Link",
+            "2\ufe0f\u20e3 Kirby",
+            "3\ufe0f\u20e3 Mario"
+        ],
+        [
+            "1\ufe0f\u20e3 A box of chocolates",
+            "2\ufe0f\u20e3 A bouquet of flowers",
+            "3\ufe0f\u20e3 A hand-crafted letter"
+        ],
+        [
+            "1\ufe0f\u20e3 Broken arm",
+            "2\ufe0f\u20e3 Broken leg",
+            "3\ufe0f\u20e3 Broken ribs"
+        ],
+        [
+            "1\ufe0f\u20e3 Forced quirkiness",
+            "2\ufe0f\u20e3 Bandwagoners",
+            "3\ufe0f\u20e3 Overconfidence",
+            "4\ufe0f\u20e3 Snobbery"
+        ],
+        [
+            "1\ufe0f\u20e3 Power",
+            "2\ufe0f\u20e3 Money",
+            "3\ufe0f\u20e3 Respect"
+        ],
+        [
+            "1\ufe0f\u20e3 Food",
+            "2\ufe0f\u20e3 Sleep",
+            "3\ufe0f\u20e3 Attention"
+        ],
+        [
+            "1\ufe0f\u20e3 Shorter",
+            "2\ufe0f\u20e3 Taller",
+            "3\ufe0f\u20e3 Doesn't matter"
+        ],
+        [
+            "1\ufe0f\u20e3 Very athletic",
+            "2\ufe0f\u20e3 Not athletic at all",
+            "3\ufe0f\u20e3 Fairly athletic"
+        ],
+        [
+            "1\ufe0f\u20e3 Dragon roll",
+            "2\ufe0f\u20e3 Rainbow roll",
+            "3\ufe0f\u20e3 Spider roll"
+        ],
+        [
+            "1\ufe0f\u20e3 Spinach",
+            "2\ufe0f\u20e3 Pineapple",
+            "3\ufe0f\u20e3 Sausage",
+            "4\ufe0f\u20e3 Anchovies"
+        ],
+        [
+            "1\ufe0f\u20e3 Roller skating",
+            "2\ufe0f\u20e3 Skateboarding",
+            "3\ufe0f\u20e3 Ice skating"
+        ],
+        [
+            "1\ufe0f\u20e3 Birthdays",
+            "2\ufe0f\u20e3 Graduations",
+            "3\ufe0f\u20e3 Anniversaries"
+        ],
+        [
+            "1\ufe0f\u20e3 Blue",
+            "2\ufe0f\u20e3 Red",
+            "3\ufe0f\u20e3 Green"
+        ],
+        [
+            "1\ufe0f\u20e3 Not popular at all",
+            "2\ufe0f\u20e3 Very popular",
+            "3\ufe0f\u20e3 Fairly popular"
+        ],
+        [
+            "1\ufe0f\u20e3 Light rain",
+            "2\ufe0f\u20e3 Heavy snow",
+            "3\ufe0f\u20e3 Dry heat"
+        ],
+        [
+            "1\ufe0f\u20e3 Boots",
+            "2\ufe0f\u20e3 Sneakers",
+            "3\ufe0f\u20e3 Sandals"
+        ],
+        [
+            "1\ufe0f\u20e3 Shorter",
+            "2\ufe0f\u20e3 Taller",
+            "3\ufe0f\u20e3 About average"
+        ],
+        [
+            "1\ufe0f\u20e3 Historical",
+            "2\ufe0f\u20e3 Zoological",
+            "3\ufe0f\u20e3 Water"
+        ],
+        [
+            "1\ufe0f\u20e3 Everyone votes",
+            "2\ufe0f\u20e3 Only the richest people vote",
+            "3\ufe0f\u20e3 Only the smartest people vote"
+        ],
+        [
+            "1\ufe0f\u20e3 Hunting",
+            "2\ufe0f\u20e3 Kayaking",
+            "3\ufe0f\u20e3 Biking",
+            "4\ufe0f\u20e3 Camping"
+        ],
+        [
+            "1\ufe0f\u20e3 Fairly crazy",
+            "2\ufe0f\u20e3 Not crazy at all",
+            "3\ufe0f\u20e3 Very crazy"
+        ],
+        [
+            "1\ufe0f\u20e3 Something spicy",
+            "2\ufe0f\u20e3 Something salty",
+            "3\ufe0f\u20e3 Something sweet"
+        ],
+        [
+            "1\ufe0f\u20e3 Glass-half-full",
+            "2\ufe0f\u20e3 Glass-half-empty"
+        ],
+        [
+            "1\ufe0f\u20e3 I go for routine checkups",
+            "2\ufe0f\u20e3 I go when I have to",
+            "3\ufe0f\u20e3 I avoid it like the plague"
+        ],
+        [
+            "1\ufe0f\u20e3 Yes",
+            "2\ufe0f\u20e3 Yes, but I pretend not to",
+            "3\ufe0f\u20e3 No"
+        ],
+        [
+            "1\ufe0f\u20e3 Being controlling",
+            "2\ufe0f\u20e3 Being self-centered",
+            "3\ufe0f\u20e3 Gaslighting",
+            "4\ufe0f\u20e3 Being judgmental"
+        ],
+        [
+            "1\ufe0f\u20e3 University professor",
+            "2\ufe0f\u20e3 Professional athlete",
+            "3\ufe0f\u20e3 Movie star"
+        ],
+        [
+            "1\ufe0f\u20e3 Nuclear war",
+            "2\ufe0f\u20e3 Asteroid impact",
+            "3\ufe0f\u20e3 Climate change",
+            "4\ufe0f\u20e3 Deadly disease"
+        ],
+        [
+            "1\ufe0f\u20e3 Medium and comfortable",
+            "2\ufe0f\u20e3 Small and cozy",
+            "3\ufe0f\u20e3 Big and luxurious"
+        ],
+        [
+            "1\ufe0f\u20e3 Gray",
+            "2\ufe0f\u20e3 White",
+            "3\ufe0f\u20e3 Black",
+            "4\ufe0f\u20e3 Beige"
+        ],
+        [
+            "1\ufe0f\u20e3 Report it to the victim",
+            "2\ufe0f\u20e3 Keep quiet about it",
+            "3\ufe0f\u20e3 Encourage them to do it more often",
+            "4\ufe0f\u20e3 Suggest that they return what they stole"
+        ],
+        [
+            "1\ufe0f\u20e3 Drop tower",
+            "2\ufe0f\u20e3 Water slide",
+            "3\ufe0f\u20e3 Roller coaster",
+            "4\ufe0f\u20e3 Ferris wheel"
+        ],
+        [
+            "1\ufe0f\u20e3 Comedy",
+            "2\ufe0f\u20e3 Romance",
+            "3\ufe0f\u20e3 Fantasy"
+        ],
+        [
+            "1\ufe0f\u20e3 Not annoying at all",
+            "2\ufe0f\u20e3 Fairly annoying",
+            "3\ufe0f\u20e3 Very annoying"
+        ],
+        [
+            "1\ufe0f\u20e3 Daisies",
+            "2\ufe0f\u20e3 Roses",
+            "3\ufe0f\u20e3 Carnations",
+            "4\ufe0f\u20e3 Lilies"
+        ],
+        [
+            "1\ufe0f\u20e3 Minor",
+            "2\ufe0f\u20e3 Major"
+        ],
+        [
+            "1\ufe0f\u20e3 Chocolate",
+            "2\ufe0f\u20e3 Strawberry",
+            "3\ufe0f\u20e3 Banana"
+        ],
+        [
+            "1\ufe0f\u20e3 Take the blame",
+            "2\ufe0f\u20e3 Shove them to the floor",
+            "3\ufe0f\u20e3 Demand an apology",
+            "4\ufe0f\u20e3 Help them clean the mess"
+        ],
+        [
+            "1\ufe0f\u20e3 Ask them to explain it",
+            "2\ufe0f\u20e3 Laugh and pretend to understand"
+        ],
+        [
+            "1\ufe0f\u20e3 Granting forgiveness",
+            "2\ufe0f\u20e3 Getting revenge",
+            "3\ufe0f\u20e3 Moving on"
+        ],
+        [
+            "1\ufe0f\u20e3 They're time for relaxation",
+            "2\ufe0f\u20e3 They're no excuse to avoid responsibilities"
+        ],
+        [
+            "1\ufe0f\u20e3 Bald eagles",
+            "2\ufe0f\u20e3 Polar bears",
+            "3\ufe0f\u20e3 Mountain lions",
+            "4\ufe0f\u20e3 Killer whales"
+        ]
+    ],
+    "similar_questions": [
+        [
+            "What do you think about fighting clubs?",
+            "What is your opinion on fighting clubs?",
+            "What do you think about dojos?",
+            "What is your opinion on dojos?"
+        ],
+        [
+            "How important to you is private time?",
+            "How important to you is alone time?"
+        ],
+        [
+            "When you make decisions, do you listen to your brain or your heart?",
+            "When you commit to something, do you follow your brain or your heart?",
+            "When you make decisions, do you follow your brain or your heart?",
+            "When you commit to something, do you obey your brain or your heart?",
+            "When you make decisions, do you obey your brain or your heart?",
+            "When you commit to something, do you listen to your brain or your heart?"
+        ],
+        [
+            "What element would you consider to be your biggest weakness?"
+        ],
+        [
+            "What time of year is your least favorite?",
+            "What season is your favorite?",
+            "What time of year is your favorite?",
+            "Which season is your least favorite?",
+            "Which season do you like the least?",
+            "Which season do you like the most?",
+            "What time of year do you like least?",
+            "Which time of year is your least favorite?",
+            "Which time of year do you like least?",
+            "What season is your least favorite?",
+            "What season do you like the least?",
+            "What season do you like most?",
+            "What time of year do you like most?",
+            "Which time of year do you like most?",
+            "Which season is your favorite?",
+            "Which time of year is your favorite?",
+            "What time of year do you like the least?",
+            "What season do you like the most?",
+            "Which season do you like least?",
+            "What time of year do you like the most?",
+            "Which time of year do you like the least?",
+            "Which time of year do you like the most?",
+            "Which season do you like most?",
+            "What season do you like least?"
+        ],
+        [
+            "How do you feel about domesticating wild animals?"
+        ],
+        [
+            "If you could snap your fingers and instantly eliminate something to improve the world, what would it be?"
+        ],
+        [
+            "How do you feel about partying?"
+        ],
+        [
+            "Which RPG class resonates best with you?",
+            "Which RPG class resonates most with you?",
+            "Which traditional RPG class resonates best with you?",
+            "Which classic RPG class resonates most with you?",
+            "Which traditional RPG class resonates most with you?",
+            "Which classic RPG class resonates best with you?"
+        ],
+        [
+            "What early invention do you feel was the most influential?",
+            "What early invention do you believe was the most important?",
+            "What early invention do you feel was the most important?",
+            "What early invention do you think was the most influential?",
+            "What early invention do you think was the most important?",
+            "What early invention do you believe was the most influential?"
+        ],
+        [
+            "What do you think is the main quality of a real friend?"
+        ],
+        [
+            "Besides Karuta, which card game is your favorite?"
+        ],
+        [
+            "If someone offers you something exciting and unexpected, what do you think?"
+        ],
+        [
+            "What's your favorite hair color?",
+            "What's your least favorite hair color?",
+            "What's your favorite common hair color?",
+            "What's your least favorite common hair color?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how funny am I?"
+        ],
+        [
+            "What do you think about big holidays?",
+            "What are your thoughts on major holidays?",
+            "How do you feel about major holidays?",
+            "What do you think about major holidays?",
+            "What are your thoughts on big holidays?",
+            "How do you feel about big holidays?"
+        ],
+        [
+            "Who do you put first?"
+        ],
+        [
+            "What's your favorite kind of berry?"
+        ],
+        [
+            "What kind of cookie is your favorite?"
+        ],
+        [
+            "What's your least favorite household duty?"
+        ],
+        [
+            "Which school subject is most important?",
+            "Which school subject is the most important?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how brave am I?"
+        ],
+        [
+            "What kind of charity would you prefer to give to?",
+            "What sort of charity would you choose to give to?",
+            "What kind of charity would you choose to give to?",
+            "What sort of charity would you prefer to give to?",
+            "What type of charity would you prefer to give to?",
+            "What type of charity would you choose to give to?"
+        ],
+        [
+            "What type of video games do you play most?",
+            "What genre of video games do you like?",
+            "What type of video games are you into?",
+            "What type of video games is your favorite?",
+            "What genre of video games are you into?",
+            "What sort of video games do you play the most?",
+            "What sort of video games is your favorite?",
+            "What genre of video games do you play most?",
+            "What sort of video games do you like?",
+            "What sort of video games are you into?",
+            "What genre of video games is your favorite?",
+            "What genre of video games do you play the most?",
+            "What type of video games do you play the most?",
+            "What sort of video games do you play most?"
+        ],
+        [
+            "What body of water would you prefer to swim in?",
+            "What would you prefer to swim in?",
+            "If you had to, what body of water would you prefer to swim in?",
+            "If you had to, what would you prefer to swim in?"
+        ],
+        [
+            "What's the first thing you notice about someone new?",
+            "What's the first thing you notice about a stranger?",
+            "What's the first thing you notice about someone"
+        ],
+        [
+            "Which supernatural beings do you think are most likely to exist?"
+        ],
+        [
+            "What's your favorite kind of citrus fruit?"
+        ],
+        [
+            "What do you care about more in someone?",
+            "What do you care about more in a friend?",
+            "What do you value more in a friend?",
+            "What do you value more in someone?"
+        ],
+        [
+            "If a friend doesn't respond to your messages within 24 hours, what do you think?"
+        ],
+        [
+            "Which home-building material is your favorite?"
+        ],
+        [
+            "Which gemstone least reminds you of me?"
+        ],
+        [
+            "What do you think is the most interesting style of shopping market?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how outgoing am I?"
+        ],
+        [
+            "What do you think is the most horrible way to die?"
+        ],
+        [
+            "Based on the series you know me from, do I go by any other names?"
+        ],
+        [
+            "When traveling as a passenger, would you rather go too fast or too slow?"
+        ],
+        [
+            "What kind of pet are you most interested in?",
+            "What kind of pet would you want to own?",
+            "What kind of pet do you want to own?",
+            "What kind of pet would you like the most?",
+            "What kind of pet do you prefer?",
+            "What kind of pet would you prefer?",
+            "What kind of pet do you like the most?"
+        ],
+        [
+            "What's your preferred sleeping position?"
+        ],
+        [
+            "What's your favorite outdoor recreational activity?"
+        ],
+        [
+            "What would you take to a deserted island?",
+            "What would you want to have on a deserted island?",
+            "What would you want on a deserted island?",
+            "What would you want with you on a deserted island?",
+            "What would you bring to a deserted island?",
+            "What would you want to have with you on a deserted island?"
+        ],
+        [
+            "What do you think happens after death?"
+        ],
+        [
+            "What's something near the top of your bucket list?"
+        ],
+        [
+            "What's your least favorite common eye color?",
+            "What's your favorite common eye color?",
+            "What's your least favorite eye color?",
+            "What's your favorite eye color?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how shy am I?"
+        ],
+        [
+            "If you were forced to take up a career, what would it be?",
+            "If you had to work a profession, which would you choose?",
+            "If you were forced to work a profession, which would you pick?",
+            "If you were forced to work a career, what would it be?",
+            "If you were forced to work a career, what would you pick?",
+            "If you had to take up a profession, which would you pick?",
+            "If you had to work a career, what would you choose?",
+            "If you had to work a career, what would you pick?",
+            "If you had to take up a career, what would you pick?",
+            "If you had to take up a profession, what would you pick?",
+            "If you had to take up a career, what would you choose?",
+            "If you were forced to take up a career, which would you pick?",
+            "If you were forced to take up a career, what would you pick?",
+            "If you were forced to take up a profession, what would it be?",
+            "If you had to take up a profession, which would it be?",
+            "If you were forced to work a profession, which would you choose?",
+            "If you had to take up a profession, what would you choose?",
+            "If you were forced to work a profession, what would it be?",
+            "If you had to take up a career, which would you choose?",
+            "If you were forced to work a profession, what would you pick?",
+            "If you were forced to work a career, what would you choose?",
+            "If you had to take up a profession, which would you choose?",
+            "If you were forced to take up a profession, what would you pick?",
+            "If you had to work a career, what would it be?",
+            "If you were forced to work a career, which would you pick?",
+            "If you had to work a career, which would you choose?",
+            "If you were forced to work a profession, what would you choose?",
+            "If you were forced to take up a profession, which would you choose?",
+            "If you were forced to take up a career, what would you choose?",
+            "If you were forced to work a career, which would you choose?",
+            "If you had to work a profession, which would you pick?",
+            "If you had to work a career, which would it be?",
+            "If you had to work a profession, what would you choose?",
+            "If you had to take up a profession, what would it be?",
+            "If you had to take up a career, which would it be?",
+            "If you had to work a profession, which would it be?",
+            "If you were forced to take up a career, which would it be?",
+            "If you had to work a profession, what would you pick?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how violent am I?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how friendly am I?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how attractive am I?"
+        ],
+        [
+            "Which petty crime do you feel is the most excusable?",
+            "Which petty crime do you feel is most excusable?"
+        ],
+        [
+            "If you had to skip a meal, which would it be?"
+        ],
+        [
+            "How do you feel about scuba diving?"
+        ],
+        [
+            "What part of a storm is the most troubling to you?",
+            "Which part of a storm is the most troubling to you?",
+            "What part of a storm is the most bothersome to you?",
+            "Which part of a storm is the most bothersome to you?"
+        ],
+        [
+            "Which emergency service do you value the most?",
+            "Which emergency service do you appreciate the most?",
+            "Which emergency service do you appreciate most?",
+            "Which emergency service do you value most?",
+            "Which emergency service do you admire most?",
+            "Which emergency service do you admire the most?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how smart am I?"
+        ],
+        [
+            "What lunch table would you sit at?"
+        ],
+        [
+            "What style of hair is your favorite?",
+            "What style of hair is your least favorite?"
+        ],
+        [
+            "What kind of jewelry is your favorite?"
+        ],
+        [
+            "When it comes to defending yourself, what's your non-lethal weapon of choice?"
+        ],
+        [
+            "What's your favorite pizza topping?"
+        ],
+        [
+            "Which traditional ninja weapon do you find the best?",
+            "Which traditional ninja weapon is your favorite?",
+            "Which ninja weapon do you find the coolest?",
+            "Which ninja weapon is your favorite?",
+            "Which ninja weapon do you find the best?",
+            "Which traditional ninja weapon do you think is the best?",
+            "Which ninja weapon do you think is the best?",
+            "Which traditional ninja weapon do you think is the coolest?",
+            "Which traditional ninja weapon do you find the coolest?",
+            "Which ninja weapon do you think is the coolest?"
+        ],
+        [
+            "What action would cause you to lose the most trust in someone?"
+        ],
+        [
+            "What style of historical theme park would you want to visit together?"
+        ],
+        [
+            "What's your favorite kind of stone fruit?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, what's my voice like?"
+        ],
+        [
+            "Which sport sounds most fun to play with friends?"
+        ],
+        [
+            "Which sense would you be the most comfortable losing?",
+            "Which sense would you be most comfortable losing?"
+        ],
+        [
+            "Which form of visual art is your favorite?"
+        ],
+        [
+            "Based on the series you know me from, would you say I'm one of its older or younger characters?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how arrogant am I?"
+        ],
+        [
+            "We should go fishing someday! What sea creature would you like to reel in the most?",
+            "We should go fishing someday! What sea creature would you like to reel in most?"
+        ],
+        [
+            "Which kind of relationships do you care about most?",
+            "Which type of connections do you value the most?",
+            "What kind of relationships do you care about most?",
+            "What type of connections do you care about the most?",
+            "Which kind of connections do you value the most?",
+            "Which type of relationships do you care about most?",
+            "What kind of relationships do you value most?",
+            "What type of relationships do you care about most?",
+            "What kind of relationships do you care about the most?",
+            "What type of connections do you value most?",
+            "Which type of connections do you value most?",
+            "Which type of relationships do you value the most?",
+            "Which type of relationships do you value most?",
+            "Which kind of relationships do you care about the most?",
+            "Which type of connections do you care about most?",
+            "What kind of connections do you care about the most?",
+            "What type of relationships do you value most?",
+            "What kind of connections do you value the most?",
+            "What kind of relationships do you value the most?",
+            "What type of relationships do you care about the most?",
+            "What type of connections do you value the most?",
+            "Which kind of connections do you care about the most?",
+            "Which type of relationships do you care about the most?",
+            "Which kind of relationships do you value the most?",
+            "Which kind of connections do you care about most?",
+            "Which type of connections do you care about the most?",
+            "Which kind of relationships do you value most?",
+            "What type of connections do you care about most?",
+            "What kind of connections do you value most?",
+            "What type of relationships do you value the most?",
+            "Which kind of connections do you value most?",
+            "What kind of connections do you care about most?"
+        ],
+        [
+            "Which extinct animal would you most want to bring back to life?"
+        ],
+        [
+            "We should become farmers! Which animals would we get first?"
+        ],
+        [
+            "Let's say we bought takeout, and you later realized that part of your order was left out. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that part of your order was left out. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later noticed that something from your order was missing. What would you do?",
+            "Let's say we bought takeout, and you later realized that something from your order was left out. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later noticed that something from your order was incorrect. What would you do?",
+            "Let's say we bought takeout, and you later realized that something from your order was incorrect. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that something from your order was left out. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later realized that part of your order was missing. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that something from your order was missing. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that part of your order was incorrect. How would you react?",
+            "Let's say we ordered takeout, and you later realized that part of your order was missing. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that part of your order was missing. What would you do?",
+            "Let's say we ordered takeout, and you later realized that something from your order was missing. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that something from your order was incorrect. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that something from your order was incorrect. How would you react?",
+            "Let's say we bought takeout, and you later realized that part of your order was incorrect. How would you react?",
+            "Let's say we bought takeout, and you later discovered that part of your order was missing. How would you react?",
+            "Let's say we ordered takeout, and you later noticed that something from your order was missing. What would you do?",
+            "Let's say we bought takeout, and you later realized that part of your order was incorrect. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that something from your order was missing. How would you react?",
+            "Let's say we ordered takeout, and you later discovered that something from your order was incorrect. How would you react?",
+            "Let's say we ordered takeout, and you later noticed that part of your order was left out. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later noticed that part of your order was missing. How would you react?",
+            "Let's say we bought takeout, and you later discovered that something from your order was incorrect. How would you react?",
+            "Let's say we bought takeout, and you later realized that something from your order was incorrect. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that something from your order was left out. What would you do?",
+            "Let's say we bought takeout, and you later noticed that something from your order was incorrect. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that part of your order was incorrect. What would you do?",
+            "Let's say we bought takeout, and you later discovered that something from your order was left out. How would you react?",
+            "Let's say we ordered takeout, and you later noticed that something from your order was left out. How would you react?",
+            "Let's say we ordered takeout, and you later realized that something from your order was missing. What would you do?",
+            "Let's say we ordered takeout, and you later noticed that part of your order was incorrect. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later noticed that part of your order was incorrect. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later noticed that part of your order was left out. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that part of your order was left out. What would you do?",
+            "Let's say we ordered takeout, and you later noticed that something from your order was missing. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that part of your order was incorrect. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later noticed that part of your order was missing. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later realized that part of your order was incorrect. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later discovered that something from your order was incorrect. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that something from your order was left out. What would you do?",
+            "Let's say we bought takeout, and you later realized that something from your order was missing. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that part of your order was left out. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that something from your order was left out. What would you do?",
+            "Let's say we ordered takeout, and you later realized that part of your order was missing. What would you do?",
+            "Let's say we ordered takeout, and you later discovered that something from your order was incorrect. What would you do?",
+            "Let's say we ordered takeout, and you later realized that part of your order was left out. What would you do?",
+            "Let's say we ordered takeout, and you later discovered that part of your order was incorrect. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that something from your order was missing. What would you do?",
+            "Let's say we bought takeout, and you later noticed that something from your order was incorrect. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later discovered that part of your order was left out. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later realized that something from your order was left out. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that something from your order was left out. How would you react?",
+            "Let's say we bought takeout, and you later realized that part of your order was missing. How would you react?",
+            "Let's say we ordered fast food from a drive-thru, and you later realized that part of your order was left out. What would you do?",
+            "Let's say we ordered fast food from a drive-thru, and you later noticed that something from your order was missing. How would you react?",
+            "Let's say we bought fast food from a drive-thru, and you later realized that part of your order was left out. What would you do?",
+            "Let's say we bought fast food from a drive-thru, and you later realized that something from your order was missing. How would you react?"
+        ],
+        [
+            "What sort of life do you want to live?",
+            "What kind of life do you want to live?",
+            "What type of life do you hope to live?",
+            "What type of life do you want to live?",
+            "What sort of life do you strive to live?",
+            "What kind of life do you strive to live?",
+            "What kind of life do you hope to live?",
+            "What type of life do you strive to live?",
+            "What sort of life do you hope to live?"
+        ],
+        [
+            "What are your thoughts on aliens?"
+        ],
+        [
+            "Which jewelry metal is your favorite?"
+        ],
+        [
+            "If you made the rules, would a tomato be considered a fruit or a vegetable?"
+        ],
+        [
+            "What instrument do you think sounds best?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how powerful am I?"
+        ],
+        [
+            "What are your thoughts on robots replacing humans in the workplace?"
+        ],
+        [
+            "What's the best reason to play games?"
+        ],
+        [
+            "Which atmospheric biome would you least want to live in?"
+        ],
+        [
+            "When do you most prefer being active?",
+            "When do you most enjoy being up?",
+            "When do you enjoy being awake?",
+            "At which time do you enjoy being awake?",
+            "When do you most enjoy being active?",
+            "At which time do you most prefer being awake?",
+            "At which time do you enjoy being active?",
+            "At which time do you most enjoy being active?",
+            "When do you most enjoy being awake?",
+            "At which time do you most enjoy being awake?",
+            "At what time do you most enjoy being up?",
+            "When do you prefer being up?",
+            "When do you enjoy being active?",
+            "At what time do you most prefer being up?",
+            "When do you most prefer being awake?",
+            "At which time do you prefer being up?",
+            "At what time do you prefer being active?",
+            "At which time do you enjoy being up?",
+            "At what time do you most enjoy being active?",
+            "When do you most prefer being up?",
+            "At which time do you most prefer being active?",
+            "At what time do you prefer being up?",
+            "At which time do you prefer being awake?",
+            "When do you enjoy being up?",
+            "At what time do you enjoy being awake?",
+            "At which time do you most enjoy being up?",
+            "At what time do you enjoy being up?",
+            "When do you prefer being awake?",
+            "When do you prefer being active?",
+            "At which time do you most prefer being up?"
+        ],
+        [
+            "What's the best kind of beverage?",
+            "What's the best kind of drink?",
+            "What's the best type of beverage?",
+            "What's the best thing to drink?",
+            "What's the best type of drink?"
+        ],
+        [
+            "What do you believe should happen to people who commit atrocities, such as murder?",
+            "What do you believe should happen to those who commit brutal crimes, such as murder?",
+            "What do you believe should happen to those who commit atrocities, such as murder?",
+            "What do you believe should happen to people who commit brutal crimes, such as murder?",
+            "What do you think should happen to people who commit brutal crimes, such as murder?",
+            "What do you think should happen to people who commit atrocities, such as murder?",
+            "What do you think should happen to those who commit brutal crimes, such as murder?",
+            "What do you think should happen to those who commit atrocities, such as murder?"
+        ],
+        [
+            "Let's say we were trapped together for a while. How would you feel about sharing a toothbrush?",
+            "Let's say we were stuck together for a few days. How would you feel about sharing a toothbrush?",
+            "Let's say we were stuck together for a while. How would you feel about sharing a toothbrush?",
+            "Let's say we were trapped together for a few days. How would you feel about sharing a toothbrush?"
+        ],
+        [
+            "If sent to the market, what's your shopping style?",
+            "If sent to the store, what's your priority?",
+            "If sent to the store, what's your shopping style?",
+            "If sent to the market, what's your priority?"
+        ],
+        [
+            "What's your favorite type of fruit?"
+        ],
+        [
+            "What's your dessert food of choice?"
+        ],
+        [
+            "What's the best struggle meal?"
+        ],
+        [
+            "When playing card games other than Karuta, which suit do you prefer?"
+        ],
+        [
+            "Let's do some character creation! Which attribute would you set the highest for me?"
+        ],
+        [
+            "Which taste do you enjoy most?",
+            "Which taste do you enjoy the most?",
+            "Which basic taste do you enjoy most?",
+            "Which basic taste do you enjoy the most?"
+        ],
+        [
+            "If we were to build a garden together, what would we grow?"
+        ],
+        [
+            "What's the most important part of your dream home?",
+            "What's the most important area of your dream home?"
+        ],
+        [
+            "What's your favorite kind of melon?"
+        ],
+        [
+            "Let's go bug catching sometime! If we did, what would you be after?"
+        ],
+        [
+            "Do you consider yourself to be an introvert or an extravert?",
+            "Are you more introverted or extraverted?",
+            "Do you consider yourself to be introverted or extraverted?",
+            "Are you an introvert or an extravert?",
+            "Are you introverted or extraverted?",
+            "Are you more of an introvert or an extravert?",
+            "Are you to be more of an introvert or an extravert?",
+            "Are you to be introverted or extraverted?",
+            "Do you consider yourself to be more introverted or extraverted?",
+            "Are you to be more introverted or extraverted?",
+            "Do you consider yourself introverted or extraverted?",
+            "Do you consider yourself to be more of an introvert or an extravert?",
+            "Do you consider yourself an introvert or an extravert?",
+            "Are you to be an introvert or an extravert?",
+            "Do you consider yourself more of an introvert or an extravert?",
+            "Do you consider yourself more introverted or extraverted?"
+        ],
+        [
+            "Time to battle! What's your element of choice?"
+        ],
+        [
+            "What is your idea of the best leisure activity?",
+            "What do you think is the best way to relax?",
+            "What do you think is the best leisure activity?",
+            "What is your idea of the best way to relax?"
+        ],
+        [
+            "If you could keep only one of your senses, which would it be?"
+        ],
+        [
+            "Which gemstone reminds you of me the most?"
+        ],
+        [
+            "The Four Horsemen of the Apocalypse are coming for you. Which do you want to meet first?"
+        ],
+        [
+            "What superpower is your favorite?",
+            "What superpower is the coolest?",
+            "What superpower is the best?"
+        ],
+        [
+            "Which emoji makes you think of me?"
+        ],
+        [
+            "Do you prefer someone heavier or slimmer than you?"
+        ],
+        [
+            "If you could travel to some distant place, where would you choose?",
+            "If you had the option to travel to some distant place, where would it be?",
+            "If you could go to some faraway place, what would it be?",
+            "If you had the option to go to some distant place, where would it be?",
+            "If you had the option to go to some distant place, what would it be?",
+            "If you had the option to travel to some faraway place, what would you choose?",
+            "If you had the option to travel to some faraway place, what would you pick?",
+            "If you were able to travel to some faraway place, what would you pick?",
+            "If you had the option to adventure to some faraway place, where would you choose?",
+            "If you could go to some distant place, what would it be?",
+            "If you had the option to adventure to some faraway place, where would it be?",
+            "If you were able to go to some faraway place, where would you pick?",
+            "If you could go to some faraway place, where would you choose?",
+            "If you were able to adventure to some faraway place, what would you choose?",
+            "If you were able to travel to some faraway place, where would you pick?",
+            "If you had the option to go to some faraway place, what would it be?",
+            "If you were able to adventure to some distant place, what would it be?",
+            "If you were able to go to some distant place, what would you choose?",
+            "If you could go to some faraway place, what would you choose?",
+            "If you could go to some faraway place, where would it be?",
+            "If you had the option to go to some distant place, what would you pick?",
+            "If you had the option to adventure to some faraway place, what would it be?",
+            "If you had the option to travel to some distant place, what would you choose?",
+            "If you could go to some distant place, what would you pick?",
+            "If you had the option to adventure to some distant place, where would you choose?",
+            "If you were able to travel to some distant place, where would it be?",
+            "If you were able to travel to some faraway place, what would you choose?",
+            "If you could travel to some faraway place, what would it be?",
+            "If you had the option to adventure to some faraway place, what would you pick?",
+            "If you had the option to adventure to some faraway place, what would you choose?",
+            "If you could travel to some faraway place, where would you pick?",
+            "If you had the option to travel to some distant place, what would it be?",
+            "If you had the option to travel to some faraway place, where would it be?",
+            "If you were able to travel to some faraway place, where would it be?",
+            "If you could adventure to some distant place, where would you pick?",
+            "If you could go to some distant place, where would you choose?",
+            "If you were able to adventure to some distant place, what would you choose?",
+            "If you had the option to go to some distant place, where would you choose?",
+            "If you had the option to go to some faraway place, where would it be?",
+            "If you could go to some faraway place, where would you pick?",
+            "If you could travel to some faraway place, where would it be?",
+            "If you were able to adventure to some distant place, where would it be?",
+            "If you could travel to some distant place, what would it be?",
+            "If you had the option to travel to some distant place, what would you pick?",
+            "If you could adventure to some distant place, where would it be?",
+            "If you had the option to adventure to some distant place, what would you choose?",
+            "If you could travel to some distant place, what would you choose?",
+            "If you had the option to go to some faraway place, where would you choose?",
+            "If you were able to go to some faraway place, what would you pick?",
+            "If you were able to adventure to some faraway place, where would you pick?",
+            "If you were able to adventure to some distant place, where would you choose?",
+            "If you could travel to some faraway place, where would you choose?",
+            "If you could travel to some distant place, where would it be?",
+            "If you were able to go to some faraway place, what would it be?",
+            "If you were able to go to some faraway place, what would you choose?"
+        ],
+        [
+            "What inconvenience would you rather deal with at home?"
+        ],
+        [
+            "If you were on a plane while it was going down, what would you do?",
+            "If you were on a plane while it was crashing, how would you react?",
+            "If you were on a plane as it was crashing, how would you react?",
+            "If you were on a plane while it was crashing, what would you do?",
+            "If you were on a plane as it was going down, how would you react?",
+            "If you were on a plane as it was going down, what would you do?",
+            "If you were on a plane while it was going down, how would you react?",
+            "If you were on a plane as it was crashing, what would you do?"
+        ],
+        [
+            "Let's say we had wildly different political views. How would you handle that?",
+            "Let's say we had very different political views. How would you handle that?",
+            "Let's say we had vastly different political views. How would you handle that?",
+            "Let's say we had wildly different political views. How would you deal with that?",
+            "Let's say we had wildly different political beliefs. How would you deal with that?",
+            "Let's say we had very different political beliefs. How would you deal with that?",
+            "Let's say we had wildly different political beliefs. How would you handle that?",
+            "Let's say we had very different political views. How would you deal with that?",
+            "Let's say we had vastly different political beliefs. How would you deal with that?",
+            "Let's say we had very different political beliefs. How would you handle that?",
+            "Let's say we had vastly different political beliefs. How would you handle that?",
+            "Let's say we had vastly different political views. How would you deal with that?"
+        ],
+        [
+            "What's the best physical way to show affection?",
+            "What's your favorite physical way to show love?",
+            "What's the best physical way to show love?",
+            "What's your favorite physical way to show affection?"
+        ],
+        [
+            "What are your thoughts on participating in sports?",
+            "What are your thoughts on participating in different types of sports?",
+            "How do you feel about playing sports?",
+            "How do you feel about participating in sports?",
+            "How do you feel about participating in different types of sports?",
+            "What are your thoughts on playing different types of sports?",
+            "What are your thoughts on playing sports?",
+            "How do you feel about playing different types of sports?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how evil am I?"
+        ],
+        [
+            "If we were part a royal family, what title would be the most appropriate for me?",
+            "If we were part a royal family, what title would be most appropriate for me?"
+        ],
+        [
+            "What would you think if you saw someone eating alone at a restaurant?",
+            "What would you think if you saw someone eating all alone in a restaurant?",
+            "What would you think if you saw someone eating all by themself at a restaurant?",
+            "What would you think if you saw someone eating alone in a restaurant?",
+            "What would you think if you saw someone eating by themself at a restaurant?",
+            "What would you think if you saw someone eating by themself in a restaurant?",
+            "What would you think if you saw someone eating all by themself in a restaurant?",
+            "What would you think if you saw someone eating all alone at a restaurant?"
+        ],
+        [
+            "What's your biggest fear?"
+        ],
+        [
+            "Which cryptid do you think is most likely to exist?"
+        ],
+        [
+            "What's the key to happiness?"
+        ],
+        [
+            "Which character development process is your favorite?"
+        ],
+        [
+            "Which popular Nintendo character is the coolest?",
+            "Which popular Nintendo character is the most interesting?",
+            "Which popular Nintendo mascot is the most interesting?",
+            "Which popular Nintendo character is the best?",
+            "Which popular Nintendo mascot is the coolest?",
+            "Which popular Nintendo mascot is the best?"
+        ],
+        [
+            "What's the best Valentine's gift?",
+            "What's your idea of the perfect Valentine's present?",
+            "What's the perfect Valentine's Day present?",
+            "What's the perfect Valentine's present?",
+            "What's your idea of the perfect Valentine's gift?",
+            "What's the perfect Valentine's gift?",
+            "What's your idea of the best Valentine's present?",
+            "What's your idea of the perfect Valentine's Day present?",
+            "What's your idea of the best Valentine's gift?",
+            "What's the perfect Valentine's Day gift?",
+            "What's the best Valentine's present?",
+            "What's the best Valentine's Day present?",
+            "What's your idea of the perfect Valentine's Day gift?",
+            "What's your idea of the best Valentine's Day gift?",
+            "What's your idea of the best Valentine's Day present?",
+            "What's the best Valentine's Day gift?"
+        ],
+        [
+            "Which injury would you rather deal with?"
+        ],
+        [
+            "What makes you cringe the hardest?"
+        ],
+        [
+            "First you get the money, then you get the power, then you get the respect. Which one is most important to you?",
+            "First you get the money, then you get the power, then you get the respect. Which is most important to you?"
+        ],
+        [
+            "What would you rather live three days without?"
+        ],
+        [
+            "Do you prefer someone taller or shorter than you?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how athletic am I?"
+        ],
+        [
+            "If I wanted sushi, which kind of roll would you get me?",
+            "If I was craving sushi, what roll would you buy me?",
+            "If I wanted a sushi roll, which would you get me?",
+            "If I was hungry for a sushi roll, which would you get for me?",
+            "If I wanted sushi, which roll would you get me?",
+            "If I was hungry for sushi, what roll would you buy me?",
+            "If I was craving sushi, what kind of roll would you get me?",
+            "If I wanted a sushi roll, which would you buy for me?",
+            "If I wanted a sushi roll, what would you buy me?",
+            "If I was hungry for a sushi roll, what would you get me?",
+            "If I was craving a sushi roll, what would you buy for me?",
+            "If I was hungry for a sushi roll, what would you buy for me?",
+            "If I wanted sushi, which roll would you buy for me?",
+            "If I was craving sushi, what type of roll would you get me?",
+            "If I wanted sushi, which type of roll would you get for me?",
+            "If I wanted sushi, what type of roll would you buy for me?",
+            "If I was craving a sushi roll, which would you get me?",
+            "If I wanted sushi, which type of roll would you buy me?",
+            "If I was hungry for a sushi roll, which would you get me?",
+            "If I was hungry for sushi, which type of roll would you get me?",
+            "If I was craving sushi, which type of roll would you buy for me?",
+            "If I was craving sushi, which roll would you get me?",
+            "If I was craving sushi, what roll would you get for me?",
+            "If I was craving sushi, which roll would you buy for me?",
+            "If I was craving sushi, what kind of roll would you get for me?",
+            "If I was hungry for a sushi roll, what would you buy me?",
+            "If I wanted a sushi roll, what would you get for me?",
+            "If I was craving sushi, which type of roll would you buy me?",
+            "If I was craving sushi, what kind of roll would you buy for me?",
+            "If I was hungry for a sushi roll, what would you get for me?",
+            "If I was hungry for sushi, what type of roll would you get for me?",
+            "If I was hungry for sushi, what roll would you get me?",
+            "If I wanted a sushi roll, which would you get for me?",
+            "If I was hungry for sushi, which roll would you get me?",
+            "If I was craving a sushi roll, what would you get for me?",
+            "If I wanted sushi, what roll would you get for me?",
+            "If I was craving a sushi roll, which would you buy me?",
+            "If I was craving sushi, which kind of roll would you buy for me?",
+            "If I wanted a sushi roll, which would you buy me?",
+            "If I was craving a sushi roll, what would you buy me?",
+            "If I was hungry for a sushi roll, which would you buy me?",
+            "If I wanted sushi, what roll would you buy for me?",
+            "If I was craving a sushi roll, what would you get me?",
+            "If I wanted sushi, which roll would you buy me?",
+            "If I was hungry for a sushi roll, which would you buy for me?",
+            "If I was craving sushi, what type of roll would you buy me?",
+            "If I was hungry for sushi, which roll would you buy for me?",
+            "If I wanted sushi, what roll would you get me?",
+            "If I wanted sushi, which roll would you get for me?"
+        ],
+        [
+            "What's your least favorite pizza topping?"
+        ],
+        [
+            "We should go skating together! What kind would we do?"
+        ],
+        [
+            "Which special occasion do you think is the least worth celebrating?"
+        ],
+        [
+            "What color do you think defines me?",
+            "What color do you think looks best on me?",
+            "What color do you think best suits me?",
+            "What color best suits me?",
+            "Which color do you think defines me?",
+            "What color defines me?",
+            "Which color best suits me?",
+            "Which color looks best on me?",
+            "What color looks best on me?",
+            "Which color do you think looks best on me?",
+            "Which color do you think best suits me?",
+            "Which color defines me?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how popular am I?"
+        ],
+        [
+            "Which weather conditions do you prefer?"
+        ],
+        [
+            "Which type of shoes are your favorite?",
+            "Which style of footwear is best?",
+            "Which type of footwear is best?",
+            "Which type of footwear is your favorite?",
+            "Which style of footwear is your favorite?",
+            "Which style of shoes are your favorite?",
+            "Which type of shoes are best?",
+            "Which style of shoes are best?"
+        ],
+        [
+            "Based on the series you know me from, would you say I'm one of its taller or shorter characters?"
+        ],
+        [
+            "If we were considering going to a theme park together, what type of park would you want to visit?"
+        ],
+        [
+            "Which voting system sounds the best?"
+        ],
+        [
+            "What's your least favorite outdoor recreational activity?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how crazy am I?"
+        ],
+        [
+            "If you had to treat me to a nice dinner, which sort of meal would you choose?",
+            "If you were to cook us supper, which sort of meal would you make?",
+            "If you were to cook us a nice supper, which kind of food would you choose?",
+            "If you had to cook us supper, which type of food would you choose?",
+            "If you had to cook us a nice dinner, which sort of food would you choose?",
+            "If you were to treat me to a nice dinner, which kind of meal would you make?",
+            "If you had to cook us supper, which sort of meal would you make?",
+            "If you had to treat me to a nice dinner, what sort of food would you make?",
+            "If you were to cook us a nice supper, which type of meal would you make?",
+            "If you had to treat me to supper, what sort of food would you make?",
+            "If you were to cook us a nice supper, which sort of food would you make?",
+            "If you had to treat me to supper, what sort of food would you choose?",
+            "If you had to treat me to supper, what sort of meal would you make?",
+            "If you were to treat me to dinner, which type of food would you choose?",
+            "If you were to cook us a nice supper, which kind of meal would you make?",
+            "If you had to cook us a nice dinner, which type of meal would you choose?",
+            "If you had to treat me to a nice dinner, what kind of food would you make?",
+            "If you were to treat me to a nice supper, what sort of meal would you make?",
+            "If you were to cook us a nice supper, what sort of meal would you choose?",
+            "If you had to treat me to a nice dinner, what kind of meal would you make?",
+            "If you were to cook us a nice dinner, what sort of meal would you choose?",
+            "If you were to cook us a nice dinner, which kind of food would you make?",
+            "If you had to treat me to supper, which sort of food would you make?",
+            "If you had to treat me to supper, which kind of meal would you make?",
+            "If you were to cook us supper, which kind of meal would you make?",
+            "If you had to treat me to a nice supper, what sort of food would you make?",
+            "If you were to treat me to supper, what kind of food would you make?",
+            "If you were to cook us a nice dinner, which kind of food would you choose?",
+            "If you were to cook us supper, which sort of food would you choose?",
+            "If you had to treat me to a nice supper, what sort of meal would you choose?",
+            "If you had to treat me to dinner, what type of food would you choose?",
+            "If you had to treat me to a nice supper, which type of meal would you choose?",
+            "If you were to treat me to supper, what type of food would you choose?",
+            "If you were to cook us a nice dinner, which type of food would you make?",
+            "If you were to cook us a nice supper, what kind of meal would you choose?",
+            "If you were to treat me to supper, what sort of meal would you choose?",
+            "If you had to cook us dinner, what sort of food would you choose?",
+            "If you had to treat me to dinner, what type of food would you make?",
+            "If you were to cook us supper, which type of meal would you make?",
+            "If you had to cook us supper, what sort of food would you make?",
+            "If you were to cook us supper, what sort of meal would you make?",
+            "If you had to cook us dinner, what kind of food would you choose?",
+            "If you were to treat me to a nice supper, which sort of meal would you make?",
+            "If you were to cook us a nice supper, what sort of meal would you make?",
+            "If you were to treat me to a nice supper, what kind of meal would you choose?",
+            "If you were to cook us dinner, which type of meal would you choose?",
+            "If you had to treat me to dinner, what type of meal would you make?",
+            "If you had to treat me to supper, what sort of meal would you choose?",
+            "If you had to cook us dinner, which kind of food would you choose?",
+            "If you were to treat me to supper, which sort of meal would you choose?",
+            "If you had to cook us a nice dinner, what sort of food would you choose?",
+            "If you were to treat me to a nice supper, which kind of food would you make?",
+            "If you were to cook us a nice dinner, which type of food would you choose?",
+            "If you were to treat me to supper, which type of meal would you make?",
+            "If you were to treat me to a nice supper, what type of food would you choose?",
+            "If you had to cook us a nice supper, what sort of meal would you make?",
+            "If you were to treat me to a nice dinner, which kind of meal would you choose?",
+            "If you were to cook us a nice dinner, what kind of food would you make?",
+            "If you were to treat me to a nice supper, which kind of food would you choose?",
+            "If you had to treat me to a nice supper, which type of food would you choose?",
+            "If you were to treat me to a nice dinner, what kind of meal would you choose?",
+            "If you had to treat me to a nice dinner, what sort of meal would you make?",
+            "If you had to treat me to dinner, which type of meal would you choose?",
+            "If you were to treat me to a nice dinner, which sort of meal would you choose?",
+            "If you were to treat me to supper, what type of food would you make?",
+            "If you were to treat me to dinner, what sort of food would you choose?",
+            "If you were to cook us a nice dinner, what type of food would you make?",
+            "If you had to cook us dinner, which sort of food would you make?",
+            "If you had to treat me to a nice dinner, what sort of food would you choose?",
+            "If you had to cook us a nice supper, which type of meal would you choose?",
+            "If you were to treat me to a nice supper, which type of food would you choose?"
+        ],
+        [
+            "How do you see the world?",
+            "What way do you approach the world?",
+            "How do you see life?",
+            "What way do you view life?",
+            "How do you view the world?",
+            "What way do you see things?",
+            "How do you see things?",
+            "What way do you approach things?",
+            "How do you approach things?",
+            "What way do you view things?",
+            "How do you view life?",
+            "What way do you approach life?",
+            "What way do you see the world?",
+            "How do you approach the world?",
+            "What way do you view the world?",
+            "How do you approach life?",
+            "What way do you see life?",
+            "How do you view things?"
+        ],
+        [
+            "How do you behave when it comes to going to the doctor?"
+        ],
+        [
+            "Do you feel anxious when your friends watch you answer these questions?"
+        ],
+        [
+            "What's the most toxic behavior?"
+        ],
+        [
+            "Which of the following careers do you believe should pay the most?"
+        ],
+        [
+            "How do you believe our world will come to an end?"
+        ],
+        [
+            "If you had the chance to choose the size of your house, what would it be?",
+            "If you were given the opportunity to select the size of your house, what would you pick?",
+            "If you had the chance to select the size of your home, what would you pick?",
+            "If you had the chance to choose the size of your home, what would it be?",
+            "If you had the chance to select the size of your home, what would it be?",
+            "If you were given the chance to choose the size of your home, what would you pick?",
+            "If you had the chance to choose the size of your home, what would you pick?",
+            "If you had the opportunity to choose the size of your home, what would you pick?",
+            "If you were given the opportunity to select the size of your home, what would it be?",
+            "If you were given the chance to choose the size of your house, what would you pick?",
+            "If you had the opportunity to select the size of your house, what would you pick?",
+            "If you had the opportunity to select the size of your home, what would you pick?",
+            "If you were given the chance to choose the size of your home, what would it be?",
+            "If you were given the opportunity to choose the size of your home, what would you pick?",
+            "If you were given the opportunity to choose the size of your home, what would it be?",
+            "If you were given the opportunity to choose the size of your house, what would you pick?",
+            "If you had the opportunity to choose the size of your home, what would it be?",
+            "If you were given the opportunity to choose the size of your house, what would it be?",
+            "If you had the opportunity to choose the size of your house, what would you pick?",
+            "If you had the chance to select the size of your house, what would it be?",
+            "If you had the chance to choose the size of your house, what would you pick?",
+            "If you were given the chance to select the size of your home, what would it be?",
+            "If you were given the opportunity to select the size of your home, what would you pick?",
+            "If you had the opportunity to select the size of your home, what would it be?",
+            "If you had the opportunity to select the size of your house, what would it be?",
+            "If you were given the chance to select the size of your house, what would you pick?",
+            "If you were given the chance to select the size of your house, what would it be?"
+        ],
+        [
+            "Which neutral color is your favorite?"
+        ],
+        [
+            "If you knew one of your friends stole from someone, what would you do?"
+        ],
+        [
+            "Which type of amusement park ride is the most fun?"
+        ],
+        [
+            "If you were forced to study a genre of literature, what would you choose?",
+            "If you had to read a genre of literature, what would you pick?",
+            "If you had to read a genre of writing, what would you choose?",
+            "If you had to study a genre of writing, what would you pick?",
+            "If you had to read a genre of literature, which would you pick?",
+            "If you were forced to study a genre of literature, which would you choose?",
+            "If you were forced to read a genre of writing, what would you choose?",
+            "If you were forced to read a genre of literature, what would you choose?",
+            "If you were forced to study a genre of literature, which would you pick?",
+            "If you had to study a genre of writing, which would you choose?",
+            "If you were forced to read a genre of writing, which would you pick?",
+            "If you were forced to read a genre of literature, which would you choose?",
+            "If you were forced to read a genre of writing, what would you pick?",
+            "If you had to read a genre of literature, what would you choose?",
+            "If you had to read a genre of writing, which would you choose?",
+            "If you were forced to study a genre of literature, what would you pick?",
+            "If you were forced to read a genre of writing, which would you choose?",
+            "If you had to study a genre of literature, what would you pick?",
+            "If you were forced to read a genre of literature, what would you pick?",
+            "If you had to read a genre of literature, which would you choose?",
+            "If you had to study a genre of literature, what would you choose?",
+            "If you were forced to study a genre of writing, which would you pick?",
+            "If you had to study a genre of literature, which would you choose?",
+            "If you had to read a genre of writing, which would you pick?",
+            "If you had to read a genre of writing, what would you pick?",
+            "If you had to study a genre of literature, which would you pick?",
+            "If you were forced to study a genre of writing, what would you pick?",
+            "If you had to study a genre of writing, what would you choose?"
+        ],
+        [
+            "Compared to other characters from the series you know me from, how annoying am I?"
+        ],
+        [
+            "What's your favorite kind of flower?"
+        ],
+        [
+            "Based on the series you know me from, would you say I'm a major or minor character?"
+        ],
+        [
+            "Milk time! Which flavor is your favorite?"
+        ],
+        [
+            "Let's say we went out to eat, and someone accidentally dropped a tray of food on you. What would you do?",
+            "Let's say we were out to eat, and a random person accidentally spilled a tray of food all over you. How would you react?",
+            "Let's say we went out to eat, and someone accidentally dropped a tray of food on you. How would you react?",
+            "Let's say we were dining out, and a random person accidentally spilled a tray of food on you. How would you react?",
+            "Let's say we were dining out, and someone accidentally spilled a tray of food all over you. What would you do?",
+            "Let's say we were dining out, and a random person accidentally dropped a tray of food all over you. What would you do?",
+            "Let's say we went out to eat, and a random person accidentally spilled a tray of food on you. How would you react?",
+            "Let's say we went out to eat, and a random person accidentally spilled a tray of food all over you. How would you react?",
+            "Let's say we went out to eat, and a random person accidentally dropped a tray of food all over you. How would you react?",
+            "Let's say we were dining out, and a random person accidentally spilled a tray of food all over you. What would you do?",
+            "Let's say we were dining out, and someone accidentally dropped a tray of food on you. How would you react?",
+            "Let's say we went out to eat, and someone accidentally spilled a tray of food all over you. What would you do?",
+            "Let's say we were out to eat, and someone accidentally spilled a tray of food on you. What would you do?",
+            "Let's say we were dining out, and someone accidentally spilled a tray of food on you. How would you react?",
+            "Let's say we were dining out, and someone accidentally dropped a tray of food all over you. What would you do?",
+            "Let's say we were dining out, and someone accidentally spilled a tray of food on you. What would you do?",
+            "Let's say we were out getting food, and someone accidentally dropped a tray of food on you. What would you do?",
+            "Let's say we went out to eat, and someone accidentally spilled a tray of food all over you. How would you react?",
+            "Let's say we went out to eat, and a random person accidentally dropped a tray of food on you. What would you do?",
+            "Let's say we were out to eat, and someone accidentally dropped a tray of food on you. What would you do?",
+            "Let's say we were out to eat, and a random person accidentally dropped a tray of food on you. How would you react?",
+            "Let's say we went out to eat, and someone accidentally spilled a tray of food on you. How would you react?",
+            "Let's say we went out to eat, and someone accidentally dropped a tray of food all over you. How would you react?",
+            "Let's say we were dining out, and a random person accidentally dropped a tray of food on you. How would you react?",
+            "Let's say we were dining out, and a random person accidentally spilled a tray of food all over you. How would you react?",
+            "Let's say we were dining out, and a random person accidentally dropped a tray of food all over you. How would you react?",
+            "Let's say we went out to eat, and a random person accidentally dropped a tray of food on you. How would you react?",
+            "Let's say we were out getting food, and someone accidentally dropped a tray of food all over you. What would you do?",
+            "Let's say we were out to eat, and someone accidentally spilled a tray of food all over you. How would you react?",
+            "Let's say we were out getting food, and someone accidentally spilled a tray of food all over you. What would you do?",
+            "Let's say we went out to eat, and a random person accidentally spilled a tray of food all over you. What would you do?",
+            "Let's say we were out getting food, and a random person accidentally dropped a tray of food on you. What would you do?",
+            "Let's say we were out getting food, and someone accidentally spilled a tray of food on you. How would you react?",
+            "Let's say we were out getting food, and someone accidentally dropped a tray of food on you. How would you react?"
+        ],
+        [
+            "If a friend told a joke that you didn't understand, how would you react?"
+        ],
+        [
+            "When someone betrays you, what's most important?",
+            "When someone wrongs you, what's most important?"
+        ],
+        [
+            "How do you feel about weekends?",
+            "What are your thoughts on weekends?",
+            "How do you feel about Saturdays and Sundays?",
+            "What are your thoughts on Saturdays and Sundays?"
+        ],
+        [
+            "If you could talk to animals, which animal do you think would have the most interesting stories?"
+        ]
+    ]
+}

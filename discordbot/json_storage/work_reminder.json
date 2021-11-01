@@ -1,0 +1,765 @@
+{
+    "810628552529018930": {
+        "last_updated": [
+            2021,
+            10,
+            31,
+            21,
+            19
+        ],
+        "setchannel": 819736980152647710,
+        "263853089419821056": [
+            {
+                "card": "Kaori Miyazono",
+                "days": 1,
+                "recovery_date": [
+                    2021,
+                    11,
+                    1,
+                    0,
+                    19
+                ]
+            },
+            {
+                "card": "Shinobu Kochou",
+                "days": 1,
+                "recovery_date": [
+                    2021,
+                    11,
+                    1,
+                    11,
+                    48
+                ]
+            },
+            {
+                "card": "Revy",
+                "days": 1,
+                "recovery_date": [
+                    2021,
+                    11,
+                    1,
+                    10,
+                    46
+                ]
+            },
+            {
+                "card": "Nino Nakano",
+                "days": 2,
+                "recovery_date": [
+                    2021,
+                    11,
+                    2,
+                    22,
+                    47
+                ]
+            },
+            {
+                "card": "Sanji",
+                "days": 6,
+                "recovery_date": [
+                    2021,
+                    11,
+                    6,
+                    13,
+                    58
+                ]
+            },
+            {
+                "card": "Mai Sakurajima",
+                "days": 7,
+                "recovery_date": [
+                    2021,
+                    11,
+                    7,
+                    13,
+                    1
+                ]
+            },
+            {
+                "card": "Nobara Kugisaki",
+                "days": 15,
+                "recovery_date": [
+                    2021,
+                    11,
+                    15,
+                    12,
+                    35
+                ]
+            },
+            {
+                "card": "Childe",
+                "days": 16,
+                "recovery_date": [
+                    2021,
+                    11,
+                    16,
+                    12,
+                    8
+                ]
+            },
+            {
+                "card": "Runa Yomozuki",
+                "days": 16,
+                "recovery_date": [
+                    2021,
+                    11,
+                    16,
+                    13,
+                    58
+                ]
+            },
+            {
+                "card": "Yuri",
+                "days": 24,
+                "recovery_date": [
+                    2021,
+                    11,
+                    24,
+                    11,
+                    28
+                ]
+            },
+            {
+                "card": "Kyouko Hori",
+                "days": 26,
+                "recovery_date": [
+                    2021,
+                    11,
+                    26,
+                    11,
+                    28
+                ]
+            }
+        ],
+        "230812262795968513": [
+            {
+                "card": "Kanao Tsuyuri",
+                "days": 0,
+                "recovery_date": [
+                    2021,
+                    10,
+                    31,
+                    21,
+                    59
+                ]
+            },
+            {
+                "card": "Tanjirou Kamado",
+                "days": 2,
+                "recovery_date": [
+                    2021,
+                    11,
+                    2,
+                    11,
+                    22
+                ]
+            },
+            {
+                "card": "Kyoujurou Rengoku",
+                "days": 3,
+                "recovery_date": [
+                    2021,
+                    11,
+                    3,
+                    12,
+                    14
+                ]
+            },
+            {
+                "card": "Tsukasa Yuzaki",
+                "days": 3,
+                "recovery_date": [
+                    2021,
+                    11,
+                    3,
+                    12,
+                    4
+                ]
+            },
+            {
+                "card": "Yotsuba Nakano",
+                "days": 4,
+                "recovery_date": [
+                    2021,
+                    11,
+                    4,
+                    11,
+                    41
+                ]
+            },
+            {
+                "card": "Nezuko Kamado",
+                "days": 5,
+                "recovery_date": [
+                    2021,
+                    11,
+                    5,
+                    23,
+                    41
+                ]
+            },
+            {
+                "card": "Siesta",
+                "days": 6,
+                "recovery_date": [
+                    2021,
+                    11,
+                    6,
+                    23,
+                    28
+                ]
+            },
+            {
+                "card": "Asuka Langley Soryu",
+                "days": 6,
+                "recovery_date": [
+                    2021,
+                    11,
+                    6,
+                    11,
+                    12
+                ]
+            },
+            {
+                "card": "Tamayo",
+                "days": 8,
+                "recovery_date": [
+                    2021,
+                    11,
+                    8,
+                    21,
+                    56
+                ]
+            },
+            {
+                "card": "Yukino Yukinoshita",
+                "days": 8,
+                "recovery_date": [
+                    2021,
+                    11,
+                    8,
+                    12,
+                    50
+                ]
+            },
+            {
+                "card": "Itsuki Nakano",
+                "days": 11,
+                "recovery_date": [
+                    2021,
+                    11,
+                    11,
+                    11,
+                    18
+                ]
+            },
+            {
+                "card": "Asuna",
+                "days": 14,
+                "recovery_date": [
+                    2021,
+                    11,
+                    14,
+                    11,
+                    12
+                ]
+            },
+            {
+                "card": "Ram",
+                "days": 16,
+                "recovery_date": [
+                    2021,
+                    11,
+                    16,
+                    11,
+                    0
+                ]
+            },
+            {
+                "card": "Miku Nakano",
+                "days": 17,
+                "recovery_date": [
+                    2021,
+                    11,
+                    17,
+                    12,
+                    14
+                ]
+            },
+            {
+                "card": "Kaguya Shinomiya",
+                "days": 18,
+                "recovery_date": [
+                    2021,
+                    11,
+                    18,
+                    11,
+                    7
+                ]
+            },
+            {
+                "card": "Kasumi Miwa",
+                "days": 18,
+                "recovery_date": [
+                    2021,
+                    11,
+                    19,
+                    0,
+                    4
+                ]
+            },
+            {
+                "card": "Megumi Fushiguro",
+                "days": 24,
+                "recovery_date": [
+                    2021,
+                    11,
+                    24,
+                    10,
+                    59
+                ]
+            },
+            {
+                "card": "Siesta",
+                "days": 25,
+                "recovery_date": [
+                    2021,
+                    11,
+                    25,
+                    12,
+                    0
+                ]
+            }
+        ],
+        "265372337501765643": [],
+        "152613011670958090": [
+            {
+                "card": "Kaguya Shinomiya",
+                "days": 1,
+                "recovery_date": [
+                    2021,
+                    11,
+                    1,
+                    0,
+                    42
+                ]
+            },
+            {
+                "card": "Yui",
+                "days": 3,
+                "recovery_date": [
+                    2021,
+                    11,
+                    3,
+                    0,
+                    44
+                ]
+            },
+            {
+                "card": "Ram",
+                "days": 7,
+                "recovery_date": [
+                    2021,
+                    11,
+                    7,
+                    2,
+                    22
+                ]
+            },
+            {
+                "card": "Rin Okumura",
+                "days": 14,
+                "recovery_date": [
+                    2021,
+                    11,
+                    14,
+                    23,
+                    54
+                ]
+            },
+            {
+                "card": "Ash's Pikachu",
+                "days": 21,
+                "recovery_date": [
+                    2021,
+                    11,
+                    21,
+                    23,
+                    54
+                ]
+            }
+        ],
+        "447116467448840202": [],
+        "476844367613526036": [
+            {
+                "card": "Shion",
+                "days": 2,
+                "recovery_date": [
+                    2021,
+                    11,
+                    2,
+                    23,
+                    7
+                ]
+            },
+            {
+                "card": "Lucy Heartfilia",
+                "days": 3,
+                "recovery_date": [
+                    2021,
+                    11,
+                    3,
+                    12,
+                    13
+                ]
+            },
+            {
+                "card": "Mahito",
+                "days": 7,
+                "recovery_date": [
+                    2021,
+                    11,
+                    7,
+                    23,
+                    55
+                ]
+            },
+            {
+                "card": "Yato",
+                "days": 11,
+                "recovery_date": [
+                    2021,
+                    11,
+                    11,
+                    11,
+                    48
+                ]
+            },
+            {
+                "card": "Mother Spider Demon",
+                "days": 18,
+                "recovery_date": [
+                    2021,
+                    11,
+                    19,
+                    0,
+                    23
+                ]
+            },
+            {
+                "card": "Shigeo Kageyama",
+                "days": 19,
+                "recovery_date": [
+                    2021,
+                    11,
+                    19,
+                    11,
+                    28
+                ]
+            }
+        ],
+        "283022119460274197": [],
+        "104392854465417216": [],
+        "339867317951528971": [],
+        "261546837566029825": [
+            {
+                "card": "Celestia Ludenberg",
+                "days": 1,
+                "recovery_date": [
+                    2021,
+                    11,
+                    1,
+                    10,
+                    53
+                ]
+            },
+            {
+                "card": "Emilia",
+                "days": 4,
+                "recovery_date": [
+                    2021,
+                    11,
+                    4,
+                    10,
+                    8
+                ]
+            },
+            {
+                "card": "Tetsurou Kuroo",
+                "days": 7,
+                "recovery_date": [
+                    2021,
+                    11,
+                    7,
+                    10,
+                    53
+                ]
+            },
+            {
+                "card": "Yuri",
+                "days": 9,
+                "recovery_date": [
+                    2021,
+                    11,
+                    9,
+                    22,
+                    56
+                ]
+            },
+            {
+                "card": "Yuji Itadori",
+                "days": 10,
+                "recovery_date": [
+                    2021,
+                    11,
+                    10,
+                    10,
+                    51
+                ]
+            },
+            {
+                "card": "Venti",
+                "days": 12,
+                "recovery_date": [
+                    2021,
+                    11,
+                    12,
+                    11,
+                    0
+                ]
+            },
+            {
+                "card": "Kyouka Jirou",
+                "days": 13,
+                "recovery_date": [
+                    2021,
+                    11,
+                    13,
+                    11,
+                    4
+                ]
+            },
+            {
+                "card": "Sailor Moon",
+                "days": 13,
+                "recovery_date": [
+                    2021,
+                    11,
+                    13,
+                    10,
+                    39
+                ]
+            },
+            {
+                "card": "Kento Nanami",
+                "days": 16,
+                "recovery_date": [
+                    2021,
+                    11,
+                    16,
+                    11,
+                    1
+                ]
+            },
+            {
+                "card": "Shouya Ishida",
+                "days": 17,
+                "recovery_date": [
+                    2021,
+                    11,
+                    18,
+                    0,
+                    3
+                ]
+            },
+            {
+                "card": "Gojo Satoru",
+                "days": 20,
+                "recovery_date": [
+                    2021,
+                    11,
+                    20,
+                    10,
+                    54
+                ]
+            },
+            {
+                "card": "Kento Nanami",
+                "days": 22,
+                "recovery_date": [
+                    2021,
+                    11,
+                    22,
+                    13,
+                    55
+                ]
+            }
+        ],
+        "397925777754292225": [],
+        "338516201019932674": [],
+        "339877483585470464": []
+    },
+    "731949622058025060": {
+        "last_updated": [
+            2021,
+            10,
+            31,
+            21,
+            19
+        ],
+        "setchannel": 849711280519643176,
+        "352598811572436992": [
+            {
+                "card": "Ishtar",
+                "days": -18,
+                "recovery_date": [
+                    2021,
+                    11,
+                    2,
+                    11,
+                    19
+                ]
+            },
+            {
+                "card": "Yuuna Yunohana",
+                "days": 17,
+                "recovery_date": [
+                    2021,
+                    11,
+                    22,
+                    13,
+                    10
+                ]
+            }
+        ],
+        "258003228564783105": [],
+        "476844367613526036": [],
+        "291408560661725186": [],
+        "263853089419821056": [
+            {
+                "card": "Keqing",
+                "days": -14,
+                "recovery_date": [
+                    2021,
+                    11,
+                    6,
+                    12,
+                    18
+                ]
+            }
+        ],
+        "141706850239250433": [
+            {
+                "card": "Yato",
+                "days": -23,
+                "recovery_date": [
+                    2021,
+                    11,
+                    3,
+                    20,
+                    37
+                ]
+            },
+            {
+                "card": "Aqua",
+                "days": -13,
+                "recovery_date": [
+                    2021,
+                    11,
+                    6,
+                    21,
+                    47
+                ]
+            },
+            {
+                "card": "Maki Zenin",
+                "days": 3,
+                "recovery_date": [
+                    2021,
+                    11,
+                    10,
+                    6,
+                    8
+                ]
+            },
+            {
+                "card": "Arthur Boyle",
+                "days": 5,
+                "recovery_date": [
+                    2021,
+                    11,
+                    8,
+                    6,
+                    57
+                ]
+            },
+            {
+                "card": "Miku Nakano",
+                "days": 12,
+                "recovery_date": [
+                    2021,
+                    11,
+                    20,
+                    5,
+                    45
+                ]
+            },
+            {
+                "card": "Maki Zenin",
+                "days": 14,
+                "recovery_date": [
+                    2021,
+                    11,
+                    22,
+                    17,
+                    38
+                ]
+            },
+            {
+                "card": "Sukuna",
+                "days": 18,
+                "recovery_date": [
+                    2021,
+                    11,
+                    19,
+                    4,
+                    21
+                ]
+            },
+            {
+                "card": "Annie Leonhart",
+                "days": 25,
+                "recovery_date": [
+                    2021,
+                    11,
+                    26,
+                    4,
+                    21
+                ]
+            },
+            {
+                "card": "Nino Nakano",
+                "days": 27,
+                "recovery_date": [
+                    2021,
+                    11,
+                    27,
+                    4,
+                    32
+                ]
+            },
+            {
+                "card": "Kaoru Sakurayashiki",
+                "days": 30,
+                "recovery_date": [
+                    2021,
+                    11,
+                    30,
+                    4,
+                    32
+                ]
+            }
+        ],
+        "334811023884156929": []
+    }
+}
