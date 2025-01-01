@@ -12,7 +12,7 @@ footerText = 'Choose the response most likely to impress Megumin'
 # Affection Rating · **118.03**/200 (**Enamored**)
 # Affection Points · **183**
 # Energy · ■■■■□
-# 
+#   
 # *“Which supernatural beings do you think are most likely to exist?”*
 # 
 # 1️⃣ Mermaids

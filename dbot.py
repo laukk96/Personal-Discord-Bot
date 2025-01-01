@@ -78,7 +78,7 @@ koibito_aliases_file = path_dbot + "/char_questions/base_files/koibito_aliases.j
 _template_char_file = path_dbot + "/char_questions/_template_char.json"
 
 
-max_dice_roll = 20;
+max_dice_roll = 20
 
 
 # https://stackoverflow.com/questions/1724693/find-a-file-in-python
