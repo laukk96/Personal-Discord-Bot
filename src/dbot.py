@@ -58,7 +58,12 @@ import threading
 # with concurrent.futures.ThreadPoolExecutor() as executor:
 #   executor.submit( func_name, args=[] )
 
-
+intents = discord.Intents.default()
+intents.typing = True
+intents.presences = True
+intents.messages = True
+intents.reactions = True
+intents.message_content = True
 
 # prefixes.json acts as a dictionary, including every server / prefix
 path_dbot = "/home/pi/discordbot"
@@ -100,7 +105,7 @@ def get_guild_prefix(ctx):
         prefixes = json.load(f)
     return prefixes[str(ctx.guild.id)]
 
-client = commands.Bot(command_prefix=get_prefix)
+client = commands.Bot(command_prefix=get_prefix, intents=intents)
 
 # ==============================================================================
 all_commands = {
@@ -2321,4 +2326,4 @@ async def on_ready():
     init_time_loop()
     await client.change_presence(activity=discord.Game(f'Ara Ara~ :heart:'))
 
-client.run('<insert_bot_token_here>')
+client.run()
