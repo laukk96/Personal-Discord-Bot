@@ -17,8 +17,8 @@ import requests
 wifiWaitCount = 0
 
 # connectWifi(host) - returns boolean for wifi connection
-# reason: sometimes, import discord errors due to wifi connection not established yet
-def connectWifi(host='http://google.com'):
+# reason: rpi4 needs to connect to wifi first to connect to discord
+def connectWifi(host='http://discord.com'):
     try:
         print(f'Request from Discord.com: {requests.get(host)}')
         webGot = requests.get(host)
@@ -39,6 +39,8 @@ import random
 import json
 
 from pathlib import Path #https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f
+
+
 
 #import sys, json, numpy as np
 # communication from node.js to python | https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/
@@ -174,7 +176,7 @@ async def isWhitelisted(ctx, array, perm='do thing', can_send_fail=True):
 
 # shutdown bot from discord
 # shutdownActive = False
-maxShutdown = 300;
+maxShutdown = 300
 bot_shutdown_message = ":white_check_mark: Goodnight~ :heart: \n`[ Shutting Down Raspberry Pi ]`"
 
 @client.command(aliases=['sd'])
@@ -2326,4 +2328,5 @@ async def on_ready():
     init_time_loop()
     await client.change_presence(activity=discord.Game(f'Ara Ara~ :heart:'))
 
+# client token is not the same as 
 client.run()
