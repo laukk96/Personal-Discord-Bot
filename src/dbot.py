@@ -40,7 +40,11 @@ import json
 
 from pathlib import Path #https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f
 
+from dotenv import load_dotenv
+load_dotenv()
 
+BOT_TOKEN = os.getenv("TOKEN")
+print('BOT_TOKEN: ', BOT_TOKEN)
 
 #import sys, json, numpy as np
 # communication from node.js to python | https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/
@@ -2329,4 +2333,4 @@ async def on_ready():
     await client.change_presence(activity=discord.Game(f'Ara Ara~ :heart:'))
 
 # client token is not the same as 
-client.run()
+client.run(BOT_TOKEN)
