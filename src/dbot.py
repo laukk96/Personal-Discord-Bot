@@ -44,7 +44,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = os.getenv("TOKEN")
-print('BOT_TOKEN: ', BOT_TOKEN)
 
 #import sys, json, numpy as np
 # communication from node.js to python | https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/
@@ -181,7 +180,7 @@ async def isWhitelisted(ctx, array, perm='do thing', can_send_fail=True):
 # shutdown bot from discord
 # shutdownActive = False
 maxShutdown = 300
-bot_shutdown_message = ":white_check_mark: Goodnight~ :heart: \n`[ Shutting Down Raspberry Pi ]`"
+bot_shutdown_message = ":white_check_mark: Goodnight~ ❤️ \n`[ Shutting Down Raspberry Pi ]`"
 
 @client.command(aliases=['sd'])
 async def shutdown(ctx, countdown=None):
@@ -1358,8 +1357,7 @@ async def time_loop():
 
 def init_time_loop():
     time_loop.change_interval(seconds=timeloop_seconds)
-    time_loop.start()
-    print('init_time_loop(): started!')
+    time_loop.start() 
 
 
 # ==============================================================================
@@ -1368,7 +1366,7 @@ def init_time_loop():
 @client.command(aliases=['stop'])
 async def exit(ctx):
     if await isWhitelisted(ctx, commander_in_chief, "exit the bot program") == True:
-        await ctx.send(f':white_check_mark: Goodbye~ :heart:\n`[ Raspberry Pi 4 is Closing the Python Instance ]`')
+        await ctx.send(f':white_check_mark: Goodbye~ ❤️\n`[ Raspberry Pi 4 is Closing the Python Instance ]`')
         time_loop.stop()
         sys.exit()
 
@@ -2330,7 +2328,7 @@ async def on_ready():
     
     # time loop beginning for work reminder
     init_time_loop()
-    await client.change_presence(activity=discord.Game(f'Ara Ara~ :heart:'))
+    await client.change_presence(activity=discord.Game(f'Ara Ara~ ❤️'))
 
 # client token is not the same as 
 client.run(BOT_TOKEN)
