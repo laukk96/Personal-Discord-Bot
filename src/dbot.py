@@ -704,11 +704,6 @@ async def unban(ctx, *, member):
                 await ctx.send(f":white_check_mark: Unbanned {user.mention}.")
                 return None
 
-
-# ==============================================================================
-# Allocated section for sauce commands <REDACTED>
-
-
 # ==============================================================================
 # Karuta Work Reminder section
 
@@ -1276,11 +1271,8 @@ async def dice(ctx, arg1=None, arg2=None):
     else:
         await ctx.send(f":no_entry: Incorrect command syntax. `[set]`")
 
-
 # ==============================================================================
-
 # Character question remember
-
 
 async def send_embed_info(channel, emb):
     emb_str = f"```{emb['title']} \n{emb['description']}"
@@ -1300,11 +1292,6 @@ async def embedcheck(ctx, message_id: int):
 
 # ==============================================================================
 
-# @client.event
-# async def on_command_error(ctx, error):
-#    print(error)
-#    pass
-
 work_messages = []
 karuta_server_id = 810628552529018930
 work_success_emotes = [
@@ -1314,7 +1301,6 @@ work_success_emotes = [
     ":confetti_ball:",
     ":partying_face:",
 ]
-
 
 async def karuta_injury_check(message):
     # checked for karuta bot, karuta server
@@ -1412,14 +1398,12 @@ async def karuta_injury_setup(msg):
                 # add work message to array, wait for when edited and work has been done
                 work_messages.append(msg.id)
 
-
 # ==============================================================================
 
 tcount = 1
 tcount_max = 12
 timeloop_seconds = 60 * 60
 ksid = str(karuta_server_id)
-
 
 @client.command(aliases=["tloop"])
 async def timeloop(ctx, arg1=None):
@@ -1442,9 +1426,6 @@ async def timeloop(ctx, arg1=None):
             )
 
 
-# https://discordpy.readthedocs.io/en/latest/ext/tasks/
-
-
 async def send_remind_check(setchannel_id, last_updated, today):
     await client.wait_until_ready()
     channel = client.get_channel(setchannel_id)
@@ -1452,12 +1433,10 @@ async def send_remind_check(setchannel_id, last_updated, today):
         f":cityscape: **Work Reminder** Another day has passed...\n`Last Updated`: {last_updated}\n`Today`: {today}"
     )
 
-
 async def send_now_time(setchannel_id, datetime_now):
     await client.wait_until_ready()
     channel = client.get_channel(setchannel_id)
     await channel.send(f"Hourly Update Time: `{datetime_now}`")
-
 
 async def send_reminder(setchannel_id, uid, card):
     #     print(f'\n\t=== SET REMINDER: === uid: {uid}')
@@ -1511,7 +1490,6 @@ async def update_all_cards(wr):
                         else:
                             i = i + 1
 
-
 async def update_last_updated(wr, server_id):
     today = datetime.now()
     wr[server_id]["last_updated"] = [
@@ -1523,8 +1501,8 @@ async def update_last_updated(wr, server_id):
     ]
     write_json(wr, work_reminder_file)
 
-
 # client.get_user(uid) returning none: https://stackoverflow.com/questions/61112322/get-userid-cant-find-user-returns-none-self-bot-discord-py
+# https://discordpy.readthedocs.io/en/latest/ext/tasks/
 @tasks.loop(seconds=timeloop_seconds)
 async def time_loop():
     global tcount
@@ -1568,14 +1546,11 @@ async def time_loop():
         if tcount > tcount_max:
             tcount = 1
 
-
 def init_time_loop():
     time_loop.change_interval(seconds=timeloop_seconds)
     time_loop.start()
 
-
 # ==============================================================================
-
 
 @client.command(aliases=["stop"])
 async def exit(ctx):
@@ -1585,7 +1560,6 @@ async def exit(ctx):
         )
         time_loop.stop()
         sys.exit()
-
 
 egg_help_embed = {
     "color": 16776960,
@@ -1607,7 +1581,6 @@ egg_help_embed = {
         {"name": "`.egg help`", "value": "Shows this help command."},
     ],
 }
-
 
 @client.command()
 async def egg(ctx, *, param=""):
