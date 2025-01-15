@@ -1666,7 +1666,6 @@ async def eggs(ctx):
             f":no_entry: {ctx.author.mention} Your profile has not been made for egg dictionary. Please use the command `egg`."
         )
 
-
 async def egg_claimed(message):
     if message.author.id == 646937666251915264:
         if "you placed **Springtide Egg" in message.content:
@@ -1748,7 +1747,6 @@ async def check_egg_emote(reaction, user):
                                 )
                                 break
 
-
 # @client.command()
 # async def setuptemplate(ctx):
 #     qstor = open_json(_question_storage_file)
@@ -1762,6 +1760,8 @@ async def check_egg_emote(reaction, user):
 #
 #     await ctx.send(f"{ctx.author.mention} Set up the `_template_char.json` file.")
 
+# ==============================================================================
+# KOIBITO Section
 
 # KOIBITO: for when talking, but not answered yet
 def koibito_parse_talk(embed):
@@ -1935,7 +1935,6 @@ async def on_reaction_add(reaction, user):
                         content=f"{rmq_message.content}\n:white_check_mark: You chose option {reaction}."
                     )
 
-
 # Used in command .simq, and when a question is added into the
 def check_answer_group_in_simq(simq, answers, agi):
     # For every question in Same Answer Group
@@ -1953,7 +1952,6 @@ def check_answer_group_in_simq(simq, answers, agi):
         elif sagi == len(simq["answer_group"][agi]) - 1:
             return True
     return False
-
 
 # Used for: Similar questions (simq)
 # Returns the boolean / target index required for sorting into simq
